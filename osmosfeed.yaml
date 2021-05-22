@@ -1,4 +1,4 @@
 cacheUrl: https://haichao592.github.io/arxiv/cache.json
 sources:
-  - href: https://arxiv.org/list/cs.CL/recent
+  - href: http://arxiv.org/rss/cs.CL
 

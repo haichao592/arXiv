@@ -1,570 +1,387 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "cs.CL updates on arXiv.org",
+      "feedUrl": "http://arxiv.org/rss/cs.CL",
+      "siteUrl": "http://arxiv.org/",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "author": null,
-          "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "publishedOn": "2021-05-17T05:32:19.000Z",
-          "wordCount": 340,
-          "title": "v1.7.2"
+          "id": "http://arxiv.org/abs/2105.05737",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Zhou_Z/0/1/0/all/0/1\">Zili Zhou</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Valentino_M/0/1/0/all/0/1\">Marco Valentino</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Landers_D/0/1/0/all/0/1\">Donal Landers</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Freitas_A/0/1/0/all/0/1\">Andre Freitas</a>",
+          "description": "This paper describes N-XKT (Neural encoding based on eXplanatory Knowledge\nTransfer), a novel method for the automatic transfer of explanatory knowledge\nthrough neural encoding mechanisms. We demonstrate that N-XKT is able to\nimprove accuracy and generalization on science Question Answering (QA).\nSpecifically, by leveraging facts from background explanatory knowledge\ncorpora, the N-XKT model shows a clear improvement on zero-shot QA.\nFurthermore, we show that N-XKT can be fine-tuned on a target QA dataset,\n…",
+          "link": "http://arxiv.org/abs/2105.05737",
+          "publishedOn": "2021-05-22T02:35:36.117Z",
+          "wordCount": 554,
+          "title": "Encoding Explanatory Knowledge for Zero-shot Science Question Answering. (arXiv:2105.05737v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
+          "id": "http://arxiv.org/abs/2105.06965",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Ravfogel_S/0/1/0/all/0/1\">Shauli Ravfogel</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Prasad_G/0/1/0/all/0/1\">Grusha Prasad</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Linzen_T/0/1/0/all/0/1\">Tal Linzen</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Goldberg_Y/0/1/0/all/0/1\">Yoav Goldberg</a>",
+          "description": "When language models process syntactically complex sentences, do they use\nabstract syntactic information present in these sentences in a manner that is\nconsistent with the grammar of English, or do they rely solely on a set of\nheuristics? We propose a method to tackle this question, AlterRep. For any\nlinguistic feature in the sentence, AlterRep allows us to generate\ncounterfactual representations by altering how this feature is encoded, while\nleaving all other aspects of the original representation intact. …",
+          "link": "http://arxiv.org/abs/2105.06965",
+          "publishedOn": "2021-05-22T02:35:36.111Z",
+          "wordCount": 645,
+          "title": "Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction. (arXiv:2105.06965v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
+          "id": "http://arxiv.org/abs/2105.03842",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Leng_Y/0/1/0/all/0/1\">Yichong Leng</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Tan_X/0/1/0/all/0/1\">Xu Tan</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhu_L/0/1/0/all/0/1\">Linchen Zhu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Xu_J/0/1/0/all/0/1\">Jin Xu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Luo_R/0/1/0/all/0/1\">Renqian Luo</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Liu_L/0/1/0/all/0/1\">Linquan Liu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Qin_T/0/1/0/all/0/1\">Tao Qin</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Li_X/0/1/0/all/0/1\">Xiang-Yang Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lin_E/0/1/0/all/0/1\">Ed Lin</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Liu_T/0/1/0/all/0/1\">Tie-Yan Liu</a>",
+          "description": "Error correction techniques have been used to refine the output sentences\nfrom automatic speech recognition (ASR) models and achieve a lower word error\nrate (WER) than original ASR outputs. Previous works usually use a\nsequence-to-sequence model to correct an ASR output sentence autoregressively,\nwhich causes large latency and cannot be deployed in online ASR services. A\nstraightforward solution to reduce latency, inspired by non-autoregressive\n(NAR) neural machine translation, is to use an NAR sequence gen…",
+          "link": "http://arxiv.org/abs/2105.03842",
+          "publishedOn": "2021-05-22T02:35:36.105Z",
+          "wordCount": 751,
+          "title": "FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition. (arXiv:2105.03842v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
+          "id": "http://arxiv.org/abs/2012.05011",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Hazra_R/0/1/0/all/0/1\">Rishi Hazra</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Dixit_S/0/1/0/all/0/1\">Sonu Dixit</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Sen_S/0/1/0/all/0/1\">Sayambhu Sen</a>",
+          "description": "Human language has been described as a system that makes \\textit{use of\nfinite means to express an unlimited array of thoughts}. Of particular interest\nis the aspect of compositionality, whereby, the meaning of a compound language\nexpression can be deduced from the meaning of its constituent parts. If\nartificial agents can develop compositional communication protocols akin to\nhuman language, they can be made to seamlessly generalize to unseen\ncombinations. However, the real question is, how do we induce com…",
+          "link": "http://arxiv.org/abs/2012.05011",
+          "publishedOn": "2021-05-22T02:35:36.090Z",
+          "wordCount": 674,
+          "title": "Infinite use of finite means: Zero-Shot Generalization using Compositional Emergent Protocols. (arXiv:2012.05011v3 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 352,
-          "title": "v1.6.0"
+          "id": "http://arxiv.org/abs/2105.05996",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Ranasinghe_T/0/1/0/all/0/1\">Tharindu Ranasinghe</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zampieri_M/0/1/0/all/0/1\">Marcos Zampieri</a>",
+          "description": "Offensive content is pervasive in social media and a reason for concern to\ncompanies and government organizations. Several studies have been recently\npublished investigating methods to detect the various forms of such content\n(e.g. hate speech, cyberbullying, and cyberaggression). The clear majority of\nthese studies deal with English partially because most annotated datasets\navailable contain English data. In this paper, we take advantage of available\nEnglish datasets by applying cross-lingual contextual wo…",
+          "link": "http://arxiv.org/abs/2105.05996",
+          "publishedOn": "2021-05-22T02:35:36.075Z",
+          "wordCount": 695,
+          "title": "Multilingual Offensive Language Identification for Low-resource Languages. (arXiv:2105.05996v3 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": null,
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 306,
-          "title": "v1.5.0"
+          "id": "http://arxiv.org/abs/2105.03505",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Li_I/0/1/0/all/0/1\">Irene Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Yan_V/0/1/0/all/0/1\">Vanessa Yan</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Li_T/0/1/0/all/0/1\">Tianxiao Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Qu_R/0/1/0/all/0/1\">Rihao Qu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Radev_D/0/1/0/all/0/1\">Dragomir Radev</a>",
+          "description": "Learning prerequisite chains is an essential task for efficiently acquiring\nknowledge in both known and unknown domains. For example, one may be an expert\nin the natural language processing (NLP) domain but want to determine the best\norder to learn new concepts in an unfamiliar Computer Vision domain (CV). Both\ndomains share some common concepts, such as machine learning basics and deep\nlearning models. In this paper, we propose unsupervised cross-domain concept\nprerequisite chain learning using an optimize…",
+          "link": "http://arxiv.org/abs/2105.03505",
+          "publishedOn": "2021-05-22T02:35:36.067Z",
+          "wordCount": 588,
+          "title": "Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders. (arXiv:2105.03505v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "author": null,
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 285,
-          "title": "v1.3.1"
+          "id": "http://arxiv.org/abs/2105.07148",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Liu_W/0/1/0/all/0/1\">Wei Liu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Fu_X/0/1/0/all/0/1\">Xiyan Fu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhang_Y/0/1/0/all/0/1\">Yue Zhang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Xiao_W/0/1/0/all/0/1\">Wenming Xiao</a>",
+          "description": "Lexicon information and pre-trained models, such as BERT, have been combined\nto explore Chinese sequence labelling tasks due to their respective strengths.\nHowever, existing methods solely fuse lexicon features via a shallow and random\ninitialized sequence layer and do not integrate them into the bottom layers of\nBERT. In this paper, we propose Lexicon Enhanced BERT (LEBERT) for Chinese\nsequence labelling, which integrates external lexicon knowledge into BERT\nlayers directly by a Lexicon Adapter layer. Comp…",
+          "link": "http://arxiv.org/abs/2105.07148",
+          "publishedOn": "2021-05-22T02:35:36.057Z",
+          "wordCount": 566,
+          "title": "Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter. (arXiv:2105.07148v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "author": null,
-          "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "publishedOn": "2021-05-05T05:19:26.000Z",
-          "wordCount": 293,
-          "title": "v1.3.0"
+          "id": "http://arxiv.org/abs/2104.05947",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Chandra_M/0/1/0/all/0/1\">Mohit Chandra</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Pailla_D/0/1/0/all/0/1\">Dheeraj Pailla</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Bhatia_H/0/1/0/all/0/1\">Himanshu Bhatia</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Sanchawala_A/0/1/0/all/0/1\">Aadilmehdi Sanchawala</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Gupta_M/0/1/0/all/0/1\">Manish Gupta</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Shrivastava_M/0/1/0/all/0/1\">Manish Shrivastava</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kumaraguru_P/0/1/0/all/0/1\">Ponnurangam Kumaraguru</a>",
+          "description": "The exponential rise of online social media has enabled the creation,\ndistribution, and consumption of information at an unprecedented rate. However,\nit has also led to the burgeoning of various forms of online abuse. Increasing\ncases of online antisemitism have become one of the major concerns because of\nits socio-political consequences. Unlike other major forms of online abuse like\nracism, sexism, etc., online antisemitism has not been studied much from a\nmachine learning perspective. To the best of our k…",
+          "link": "http://arxiv.org/abs/2104.05947",
+          "publishedOn": "2021-05-22T02:35:35.996Z",
+          "wordCount": 668,
+          "title": "\"Subverting the Jewtocracy\": Online Antisemitism Detection Using Multimodal Deep Learning. (arXiv:2104.05947v2 [cs.MM] UPDATED)"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "author": null,
-          "description": "Changed: favicon update.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "publishedOn": "2021-05-05T05:19:03.000Z",
-          "wordCount": 270,
-          "title": "v1.2.3"
+          "id": "http://arxiv.org/abs/2105.09680",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Park_S/0/1/0/all/0/1\">Sungjoon Park</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Moon_J/0/1/0/all/0/1\">Jihyung Moon</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kim_S/0/1/0/all/0/1\">Sungdong Kim</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cho_W/0/1/0/all/0/1\">Won Ik Cho</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Han_J/0/1/0/all/0/1\">Jiyoon Han</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Park_J/0/1/0/all/0/1\">Jangwon Park</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Song_C/0/1/0/all/0/1\">Chisung Song</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kim_J/0/1/0/all/0/1\">Junseong Kim</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Song_Y/0/1/0/all/0/1\">Yongsook Song</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Oh_T/0/1/0/all/0/1\">Taehwan Oh</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lee_J/0/1/0/all/0/1\">Joohong Lee</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Oh_J/0/1/0/all/0/1\">Juhyun Oh</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lyu_S/0/1/0/all/0/1\">Sungwon Lyu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Jeong_Y/0/1/0/all/0/1\">Younghoon Jeong</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lee_I/0/1/0/all/0/1\">Inkwon Lee</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Seo_S/0/1/0/all/0/1\">Sangwoo Seo</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lee_D/0/1/0/all/0/1\">Dongjun Lee</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kim_H/0/1/0/all/0/1\">Hyunwoo Kim</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lee_M/0/1/0/all/0/1\">Myeonghwa Lee</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Jang_S/0/1/0/all/0/1\">Seongbo Jang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Do_S/0/1/0/all/0/1\">Seungwon Do</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kim_S/0/1/0/all/0/1\">Sunkyoung Kim</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lim_K/0/1/0/all/0/1\">Kyungtae Lim</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lee_J/0/1/0/all/0/1\">Jongwon Lee</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Park_K/0/1/0/all/0/1\">Kyumin Park</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Shin_J/0/1/0/all/0/1\">Jamin Shin</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kim_S/0/1/0/all/0/1\">Seonghyun Kim</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Park_L/0/1/0/all/0/1\">Lucy Park</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Oh_A/0/1/0/all/0/1\">Alice Oh</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Ha_J/0/1/0/all/0/1\">Jungwoo Ha</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cho_K/0/1/0/all/0/1\">Kyunghyun Cho Alice Oh Jungwoo Ha Kyunghyun Cho</a>",
+          "description": "We introduce Korean Language Understanding Evaluation (KLUE) benchmark. KLUE\nis a collection of 8 Korean natural language understanding (NLU) tasks,\nincluding Topic Classification, Semantic Textual Similarity, Natural Language\nInference, Named Entity Recognition, Relation Extraction, Dependency Parsing,\nMachine Reading Comprehension, and Dialogue State Tracking. We build all of the\ntasks from scratch from diverse source corpora while respecting copyrights, to\nensure accessibility for anyone without any rest…",
+          "link": "http://arxiv.org/abs/2105.09680",
+          "publishedOn": "2021-05-22T02:35:35.907Z",
+          "wordCount": 735,
+          "title": "KLUE: Korean Language Understanding Evaluation. (arXiv:2105.09680v1 [cs.CL])"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "author": null,
-          "description": "Added: Display CLI version in footer.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "publishedOn": "2021-05-05T05:18:52.000Z",
-          "wordCount": 273,
-          "title": "v1.2.1"
-        }
-      ]
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=340991",
-          "author": "Chris Coyier",
-          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1166,
-          "title": "Should DevTools teach the CSS cascade?"
+          "id": "http://arxiv.org/abs/2105.09660",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Hamborg_F/0/1/0/all/0/1\">Felix Hamborg</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Donnay_K/0/1/0/all/0/1\">Karsten Donnay</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Gipp_B/0/1/0/all/0/1\">Bela Gipp</a>",
+          "description": "Extensive research on target-dependent sentiment classification (TSC) has led\nto strong classification performances in domains where authors tend to\nexplicitly express sentiment about specific entities or topics, such as in\nreviews or on social media. We investigate TSC in news articles, a much less\nresearched domain, despite the importance of news as an essential information\nsource in individual and societal decision making. This article introduces\nNewsTSC, a manually annotated dataset to explore TSC on ne…",
+          "link": "http://arxiv.org/abs/2105.09660",
+          "publishedOn": "2021-05-22T02:35:35.900Z",
+          "wordCount": 621,
+          "title": "Towards Target-dependent Sentiment Classification in News Articles. (arXiv:2105.09660v1 [cs.CL])"
         },
         {
-          "id": "https://css-tricks.com/?p=340825",
-          "author": "Adam Rackis",
-          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
-          "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3256,
-          "title": "Svelte for the Experienced React Dev"
+          "id": "http://arxiv.org/abs/2010.11574",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Cruz_J/0/1/0/all/0/1\">Jan Christian Blaise Cruz</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Resabal_J/0/1/0/all/0/1\">Jose Kristian Resabal</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lin_J/0/1/0/all/0/1\">James Lin</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Velasco_D/0/1/0/all/0/1\">Dan John Velasco</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cheng_C/0/1/0/all/0/1\">Charibeth Cheng</a>",
+          "description": "Transformers represent the state-of-the-art in Natural Language Processing\n(NLP) in recent years, proving effective even in tasks done in low-resource\nlanguages. While pretrained transformers for these languages can be made, it is\nchallenging to measure their true performance and capacity due to the lack of\nhard benchmark datasets, as well as the difficulty and cost of producing them.\nIn this paper, we present three contributions: First, we propose a methodology\nfor automatically producing Natural Language …",
+          "link": "http://arxiv.org/abs/2010.11574",
+          "publishedOn": "2021-05-22T02:35:35.892Z",
+          "wordCount": 649,
+          "title": "Exploiting News Article Structure for Automatic Corpus Generation. (arXiv:2010.11574v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://css-tricks.com/?p=340919",
-          "author": "Chris Coyier",
-          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://csshell.dev/",
-          "publishedOn": "2021-05-21T14:29:16.000Z",
-          "wordCount": 295,
-          "title": "CSS Hell"
+          "id": "http://arxiv.org/abs/2105.09930",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Sodhi_S/0/1/0/all/0/1\">Sukhdeep S. Sodhi</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Chio_E/0/1/0/all/0/1\">Ellie Ka-In Chio</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Jash_A/0/1/0/all/0/1\">Ambarish Jash</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Ontanon_S/0/1/0/all/0/1\">Santiago Onta&#xf1;&#xf3;n</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Apte_A/0/1/0/all/0/1\">Ajit Apte</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kumar_A/0/1/0/all/0/1\">Ankit Kumar</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Jeje_A/0/1/0/all/0/1\">Ayooluwakunmi Jeje</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kuzmin_D/0/1/0/all/0/1\">Dima Kuzmin</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Fung_H/0/1/0/all/0/1\">Harry Fung</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cheng_H/0/1/0/all/0/1\">Heng-Tze Cheng</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Effrat_J/0/1/0/all/0/1\">Jon Effrat</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Bali_T/0/1/0/all/0/1\">Tarush Bali</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Jindal_N/0/1/0/all/0/1\">Nitin Jindal</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cao_P/0/1/0/all/0/1\">Pei Cao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Singh_S/0/1/0/all/0/1\">Sarvjeet Singh</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhou_S/0/1/0/all/0/1\">Senqiang Zhou</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Khan_T/0/1/0/all/0/1\">Tameen Khan</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wankhede_A/0/1/0/all/0/1\">Amol Wankhede</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Alzantot_M/0/1/0/all/0/1\">Moustafa Alzantot</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wu_A/0/1/0/all/0/1\">Allen Wu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Chandra_T/0/1/0/all/0/1\">Tushar Chandra</a>",
+          "description": "As more and more online search queries come from voice, automatic speech\nrecognition becomes a key component to deliver relevant search results. Errors\nintroduced by automatic speech recognition (ASR) lead to irrelevant search\nresults returned to the user, thus causing user dissatisfaction. In this paper,\nwe introduce an approach, Mondegreen, to correct voice queries in text space\nwithout depending on audio signals, which may not always be available due to\nsystem constraints or privacy or bandwidth (for exa…",
+          "link": "http://arxiv.org/abs/2105.09930",
+          "publishedOn": "2021-05-22T02:35:35.886Z",
+          "wordCount": 678,
+          "title": "Mondegreen: A Post-Processing Solution to Speech Recognition Error Correction for Voice Search Queries. (arXiv:2105.09930v1 [cs.SD])"
         },
         {
-          "id": "https://css-tricks.com/?p=340599",
-          "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 929,
-          "title": "JSON in CSS"
+          "id": "http://arxiv.org/abs/2006.16362",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Cordonnier_J/0/1/0/all/0/1\">Jean-Baptiste Cordonnier</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Loukas_A/0/1/0/all/0/1\">Andreas Loukas</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Jaggi_M/0/1/0/all/0/1\">Martin Jaggi</a>",
+          "description": "Attention layers are widely used in natural language processing (NLP) and are\nbeginning to influence computer vision architectures. Training very large\ntransformer models allowed significant improvement in both fields, but once\ntrained, these networks show symptoms of over-parameterization. For instance,\nit is known that many attention heads can be pruned without impacting accuracy.\nThis work aims to enhance current understanding on how multiple heads interact.\nMotivated by the observation that attention he…",
+          "link": "http://arxiv.org/abs/2006.16362",
+          "publishedOn": "2021-05-22T02:35:35.869Z",
+          "wordCount": 628,
+          "title": "Multi-Head Attention: Collaborate Instead of Concatenate. (arXiv:2006.16362v2 [cs.LG] UPDATED)"
         },
         {
-          "id": "https://css-tricks.com/?p=340933",
-          "author": "Chris Coyier",
-          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 1040,
-          "title": "Learn CSS!"
+          "id": "http://arxiv.org/abs/2105.09938",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Hendrycks_D/0/1/0/all/0/1\">Dan Hendrycks</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Basart_S/0/1/0/all/0/1\">Steven Basart</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kadavath_S/0/1/0/all/0/1\">Saurav Kadavath</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Mazeika_M/0/1/0/all/0/1\">Mantas Mazeika</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Arora_A/0/1/0/all/0/1\">Akul Arora</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Guo_E/0/1/0/all/0/1\">Ethan Guo</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Burns_C/0/1/0/all/0/1\">Collin Burns</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Puranik_S/0/1/0/all/0/1\">Samir Puranik</a>, <a href=\"http://arxiv.org/find/cs/1/au:+He_H/0/1/0/all/0/1\">Horace He</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Song_D/0/1/0/all/0/1\">Dawn Song</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Steinhardt_J/0/1/0/all/0/1\">Jacob Steinhardt</a>",
+          "description": "While programming is one of the most broadly applicable skills in modern\nsociety, modern machine learning models still cannot code solutions to basic\nproblems. It can be difficult to accurately assess code generation performance,\nand there has been surprisingly little work on evaluating code generation in a\nway that is both flexible and rigorous. To meet this challenge, we introduce\nAPPS, a benchmark for code generation. Unlike prior work in more restricted\nsettings, our benchmark measures the ability of mo…",
+          "link": "http://arxiv.org/abs/2105.09938",
+          "publishedOn": "2021-05-22T02:35:35.861Z",
+          "wordCount": 662,
+          "title": "Measuring Coding Challenge Competence With APPS. (arXiv:2105.09938v1 [cs.SE])"
         },
         {
-          "id": "https://css-tricks.com/?p=340715",
-          "author": "Jhey Tompkins",
-          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
-          "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1725,
-          "title": "Can We Create a “Resize Hack” With Container Queries?"
+          "id": "http://arxiv.org/abs/2105.09835",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Li_Z/0/1/0/all/0/1\">Zuchao Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhou_J/0/1/0/all/0/1\">Junru Zhou</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhao_H/0/1/0/all/0/1\">Hai Zhao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Parnow_K/0/1/0/all/0/1\">Kevin Parnow</a>",
+          "description": "Constituent and dependency parsing, the two classic forms of syntactic\nparsing, have been found to benefit from joint training and decoding under a\nuniform formalism, Head-driven Phrase Structure Grammar (HPSG). However,\ndecoding this unified grammar has a higher time complexity ($O(n^5)$) than\ndecoding either form individually ($O(n^3)$) since more factors have to be\nconsidered during decoding. We thus propose an improved head scorer that helps\nachieve a novel performance-preserved parser in $O$($n^3$) tim…",
+          "link": "http://arxiv.org/abs/2105.09835",
+          "publishedOn": "2021-05-22T02:35:35.853Z",
+          "wordCount": 552,
+          "title": "Head-driven Phrase Structure Parsing in O($n^3$) Time Complexity. (arXiv:2105.09835v1 [cs.CL])"
         },
         {
-          "id": "https://css-tricks.com/?p=340897",
-          "author": "Chris Coyier",
-          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
-          "publishedOn": "2021-05-20T14:20:56.000Z",
-          "wordCount": 1196,
-          "title": "fit-content and fit-content()"
+          "id": "http://arxiv.org/abs/2012.00955",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Jiang_Z/0/1/0/all/0/1\">Zhengbao Jiang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Araki_J/0/1/0/all/0/1\">Jun Araki</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Ding_H/0/1/0/all/0/1\">Haibo Ding</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Neubig_G/0/1/0/all/0/1\">Graham Neubig</a>",
+          "description": "Recent works have shown that language models (LM) capture different types of\nknowledge regarding facts or common sense. However, because no model is\nperfect, they still fail to provide appropriate answers in many cases. In this\npaper, we ask the question \"how can we know when language models know, with\nconfidence, the answer to a particular query?\" We examine this question from\nthe point of view of calibration, the property of a probabilistic model's\npredicted probabilities actually being well correlated wi…",
+          "link": "http://arxiv.org/abs/2012.00955",
+          "publishedOn": "2021-05-22T02:35:35.846Z",
+          "wordCount": 672,
+          "title": "How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering. (arXiv:2012.00955v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://css-tricks.com/?p=340731",
-          "author": "Chris Coyier",
-          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/notion-api/",
-          "publishedOn": "2021-05-19T23:18:42.000Z",
-          "wordCount": 1042,
-          "title": "Notion API"
+          "id": "http://arxiv.org/abs/2012.15409",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Li_W/0/1/0/all/0/1\">Wei Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Gao_C/0/1/0/all/0/1\">Can Gao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Niu_G/0/1/0/all/0/1\">Guocheng Niu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Xiao_X/0/1/0/all/0/1\">Xinyan Xiao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Liu_H/0/1/0/all/0/1\">Hao Liu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Liu_J/0/1/0/all/0/1\">Jiachen Liu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wu_H/0/1/0/all/0/1\">Hua Wu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wang_H/0/1/0/all/0/1\">Haifeng Wang</a>",
+          "description": "Existed pre-training methods either focus on single-modal tasks or\nmulti-modal tasks, and cannot effectively adapt to each other. They can only\nutilize single-modal data (i.e. text or image) or limited multi-modal data\n(i.e. image-text pairs). In this work, we propose a unified-modal pre-training\narchitecture, namely UNIMO, which can effectively adapt to both single-modal\nand multi-modal understanding and generation tasks. Large scale of free text\ncorpus and image collections can be utilized to improve the …",
+          "link": "http://arxiv.org/abs/2012.15409",
+          "publishedOn": "2021-05-22T02:35:35.838Z",
+          "wordCount": 665,
+          "title": "UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning. (arXiv:2012.15409v3 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://css-tricks.com/?p=340692",
-          "author": "Shubham Jain",
-          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
-          "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1606,
-          "title": "svg-loader: A Different Way to Work With External SVG"
+          "id": "http://arxiv.org/abs/2105.09867",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Scontras_G/0/1/0/all/0/1\">Gregory Scontras</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Tessler_M/0/1/0/all/0/1\">Michael Henry Tessler</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Franke_M/0/1/0/all/0/1\">Michael Franke</a>",
+          "description": "Recent advances in computational cognitive science (i.e., simulation-based\nprobabilistic programs) have paved the way for significant progress in formal,\nimplementable models of pragmatics. Rather than describing a pragmatic\nreasoning process in prose, these models formalize and implement one, deriving\nboth qualitative and quantitative predictions of human behavior -- predictions\nthat consistently prove correct, demonstrating the viability and value of the\nframework. The current paper provides a practical i…",
+          "link": "http://arxiv.org/abs/2105.09867",
+          "publishedOn": "2021-05-22T02:35:35.829Z",
+          "wordCount": 522,
+          "title": "A practical introduction to the Rational Speech Act modeling framework. (arXiv:2105.09867v1 [cs.CL])"
         },
         {
-          "id": "https://css-tricks.com/?p=340613",
-          "author": "Chris Coyier",
-          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
-          "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 1082,
-          "title": "Pinned Audio WordPress Theme"
+          "id": "http://arxiv.org/abs/2010.07414",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Nejadgholi_I/0/1/0/all/0/1\">Isar Nejadgholi</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kiritchenko_S/0/1/0/all/0/1\">Svetlana Kiritchenko</a>",
+          "description": "NLP research has attained high performances in abusive language detection as\na supervised classification task. While in research settings, training and test\ndatasets are usually obtained from similar data samples, in practice systems\nare often applied on data that are different from the training set in topic and\nclass distributions. Also, the ambiguity in class definitions inherited in this\ntask aggravates the discrepancies between source and target datasets. We\nexplore the topic bias and the task formulati…",
+          "link": "http://arxiv.org/abs/2010.07414",
+          "publishedOn": "2021-05-22T02:35:35.810Z",
+          "wordCount": 628,
+          "title": "On Cross-Dataset Generalization in Automatic Detection of Online Abuse. (arXiv:2010.07414v3 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2401,
-          "title": "How to Create Neon Text With CSS"
+          "id": "http://arxiv.org/abs/2105.09825",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Lenci_A/0/1/0/all/0/1\">Alessandro Lenci</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Sahlgren_M/0/1/0/all/0/1\">Magnus Sahlgren</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Jeuniaux_P/0/1/0/all/0/1\">Patrick Jeuniaux</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Gyllensten_A/0/1/0/all/0/1\">Amaru Cuba Gyllensten</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Miliani_M/0/1/0/all/0/1\">Martina Miliani</a>",
+          "description": "Distributional semantics has deeply changed in the last decades. First,\npredict models stole the thunder from traditional count ones, and more recently\nboth of them were replaced in many NLP applications by contextualized vectors\nproduced by Transformer neural language models. Although an extensive body of\nresearch has been devoted to Distributional Semantic Model (DSM) evaluation, we\nstill lack a thorough comparison with respect to tested models, semantic tasks,\nand benchmark datasets. Moreover, previous w…",
+          "link": "http://arxiv.org/abs/2105.09825",
+          "publishedOn": "2021-05-22T02:35:35.798Z",
+          "wordCount": 663,
+          "title": "A comprehensive comparative evaluation and analysis of Distributional Semantic Models. (arXiv:2105.09825v1 [cs.CL])"
         },
         {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `img` Element And Core Web Vitals"
+          "id": "http://arxiv.org/abs/2105.09742",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Agarwal_A/0/1/0/all/0/1\">Aashish Agarwal</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zesch_T/0/1/0/all/0/1\">Torsten Zesch</a>",
+          "description": "When evaluating the performance of automatic speech recognition models,\nusually word error rate within a certain dataset is used. Special care must be\ntaken in understanding the dataset in order to report realistic performance\nnumbers. We argue that many performance numbers reported probably underestimate\nthe expected error rate. We conduct experiments controlling for selection bias,\ngender as well as overlap (between training and test data) in content, voices,\nand recording conditions. We find that content…",
+          "link": "http://arxiv.org/abs/2105.09742",
+          "publishedOn": "2021-05-22T02:35:35.788Z",
+          "wordCount": 532,
+          "title": "Robustness of end-to-end Automatic Speech Recognition Models -- A Case Study using Mozilla DeepSpeech. (arXiv:2105.09742v1 [cs.CL])"
         },
         {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2908,
-          "title": "A Love Letter to HTML & CSS"
+          "id": "http://arxiv.org/abs/2105.09856",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Tobing_P/0/1/0/all/0/1\">Patrick Lumban Tobing</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Toda_T/0/1/0/all/0/1\">Tomoki Toda</a>",
+          "description": "This paper presents a novel high-fidelity and low-latency universal neural\nvocoder framework based on multiband WaveRNN with data-driven linear prediction\nfor discrete waveform modeling (MWDLP). MWDLP employs a coarse-fine bit WaveRNN\narchitecture for 10-bit mu-law waveform modeling. A sparse gated recurrent unit\nwith a relatively large size of hidden units is utilized, while the multiband\nmodeling is deployed to achieve real-time low-latency usage. A novel technique\nfor data-driven linear prediction (LP) w…",
+          "link": "http://arxiv.org/abs/2105.09856",
+          "publishedOn": "2021-05-22T02:35:35.768Z",
+          "wordCount": 635,
+          "title": "High-Fidelity and Low-Latency Universal Neural Vocoder based on Multiband WaveRNN with Data-Driven Linear Prediction for Discrete Waveform Modeling. (arXiv:2105.09856v1 [cs.SD])"
         },
         {
-          "id": "https://css-tricks.com/?p=340594",
-          "author": "Chris Coyier",
-          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.euismod.dev/",
-          "publishedOn": "2021-05-17T14:27:13.000Z",
-          "wordCount": 3,
-          "title": "Euismod"
+          "id": "http://arxiv.org/abs/2005.01107",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Lopez_L/0/1/0/all/0/1\">Luis Enrico Lopez</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cruz_D/0/1/0/all/0/1\">Diane Kathryn Cruz</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cruz_J/0/1/0/all/0/1\">Jan Christian Blaise Cruz</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cheng_C/0/1/0/all/0/1\">Charibeth Cheng</a>",
+          "description": "Question generation (QG) is a natural language generation task where a model\nis trained to ask questions corresponding to some input text. Most recent\napproaches frame QG as a sequence-to-sequence problem and rely on additional\nfeatures and mechanisms to increase performance; however, these often increase\nmodel complexity, and can rely on auxiliary data unavailable in practical use.\nA single Transformer-based unidirectional language model leveraging transfer\nlearning can be used to produce high quality ques…",
+          "link": "http://arxiv.org/abs/2005.01107",
+          "publishedOn": "2021-05-22T02:35:35.758Z",
+          "wordCount": 646,
+          "title": "Simplifying Paragraph-level Question Generation via Transformer Language Models. (arXiv:2005.01107v3 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2298,
-          "title": "Auto-Generated Social Media Images"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
-          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
-          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9398,
-          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+          "id": "http://arxiv.org/abs/2105.09858",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Tobing_P/0/1/0/all/0/1\">Patrick Lumban Tobing</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Toda_T/0/1/0/all/0/1\">Tomoki Toda</a>",
+          "description": "This paper presents a low-latency real-time (LLRT) non-parallel voice\nconversion (VC) framework based on cyclic variational autoencoder (CycleVAE)\nand multiband WaveRNN with data-driven linear prediction (MWDLP). CycleVAE is a\nrobust non-parallel multispeaker spectral model, which utilizes a\nspeaker-independent latent space and a speaker-dependent code to generate\nreconstructed/converted spectral features given the spectral features of an\ninput speaker. On the other hand, MWDLP is an efficient and a high-qu…",
+          "link": "http://arxiv.org/abs/2105.09858",
+          "publishedOn": "2021-05-22T02:35:35.748Z",
+          "wordCount": 646,
+          "title": "Low-Latency Real-Time Non-Parallel Voice Conversion based on Cyclic Variational Autoencoder and Multiband WaveRNN with Data-Driven Linear Prediction. (arXiv:2105.09858v1 [cs.SD])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "publishedOn": "2021-05-20T14:20:00.000Z",
-          "wordCount": 831,
-          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
+          "id": "http://arxiv.org/abs/2010.10391",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Michalopoulos_G/0/1/0/all/0/1\">George Michalopoulos</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wang_Y/0/1/0/all/0/1\">Yuanxin Wang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kaka_H/0/1/0/all/0/1\">Hussam Kaka</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Chen_H/0/1/0/all/0/1\">Helen Chen</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wong_A/0/1/0/all/0/1\">Alexander Wong</a>",
+          "description": "Contextual word embedding models, such as BioBERT and Bio_ClinicalBERT, have\nachieved state-of-the-art results in biomedical natural language processing\ntasks by focusing their pre-training process on domain-specific corpora.\nHowever, such models do not take into consideration expert domain knowledge.\n\nIn this work, we introduced UmlsBERT, a contextual embedding model that\nintegrates domain knowledge during the pre-training process via a novel\nknowledge augmentation strategy. More specifically, the augmenta…",
+          "link": "http://arxiv.org/abs/2010.10391",
+          "publishedOn": "2021-05-22T02:35:35.735Z",
+          "wordCount": 642,
+          "title": "UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus. (arXiv:2010.10391v4 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
-          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
-          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1919,
-          "title": "How To Implement Authentication In Next.js With Auth0"
+          "id": "http://arxiv.org/abs/2010.06269",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Hettiarachchi_H/0/1/0/all/0/1\">Hansi Hettiarachchi</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Ranasinghe_T/0/1/0/all/0/1\">Tharindu Ranasinghe</a>",
+          "description": "This paper presents the team BRUMS submission to SemEval-2020 Task 3: Graded\nWord Similarity in Context. The system utilises state-of-the-art contextualised\nword embeddings, which have some task-specific adaptations, including stacked\nembeddings and average embeddings. Overall, the approach achieves good\nevaluation scores across all the languages, while maintaining simplicity.\nFollowing the final rankings, our approach is ranked within the top 5 solutions\nof each language while preserving the 1st position o…",
+          "link": "http://arxiv.org/abs/2010.06269",
+          "publishedOn": "2021-05-22T02:35:35.725Z",
+          "wordCount": 556,
+          "title": "BRUMS at SemEval-2020 Task 3: Contextualised Embeddings for Predicting the (Graded) Effect of Context in Word Similarity. (arXiv:2010.06269v2 [cs.CL] UPDATED)"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
+          "id": "http://arxiv.org/abs/2105.09649",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Wu_Z/0/1/0/all/0/1\">Zixiu Wu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Helaoui_R/0/1/0/all/0/1\">Rim Helaoui</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kumar_V/0/1/0/all/0/1\">Vivek Kumar</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Recupero_D/0/1/0/all/0/1\">Diego Reforgiato Recupero</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Riboni_D/0/1/0/all/0/1\">Daniele Riboni</a>",
+          "description": "Empathetic response from the therapist is key to the success of clinical\npsychotherapy, especially motivational interviewing. Previous work on\ncomputational modelling of empathy in motivational interviewing has focused on\noffline, session-level assessment of therapist empathy, where empathy captures\nall efforts that the therapist makes to understand the client's perspective and\nconvey that understanding to the client. In this position paper, we propose a\nnovel task of turn-level detection of client need for…",
+          "link": "http://arxiv.org/abs/2105.09649",
+          "publishedOn": "2021-05-22T02:35:35.716Z",
+          "wordCount": 586,
+          "title": "Towards Detecting Need for Empathetic Response in Motivational Interviewing. (arXiv:2105.09649v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
+          "id": "http://arxiv.org/abs/2105.09632",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Dessi_D/0/1/0/all/0/1\">Danilo Dessi</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Helaoui_R/0/1/0/all/0/1\">Rim Helaoui</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kumar_V/0/1/0/all/0/1\">Vivek Kumar</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Recupero_D/0/1/0/all/0/1\">Diego Reforgiato Recupero</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Riboni_D/0/1/0/all/0/1\">Daniele Riboni</a>",
+          "description": "Today, we are seeing an ever-increasing number of clinical notes that contain\nclinical results, images, and textual descriptions of patient's health state.\nAll these data can be analyzed and employed to cater novel services that can\nhelp people and domain experts with their common healthcare tasks. However,\nmany technologies such as Deep Learning and tools like Word Embeddings have\nstarted to be investigated only recently, and many challenges remain open when\nit comes to healthcare domain applications. To a…",
+          "link": "http://arxiv.org/abs/2105.09632",
+          "publishedOn": "2021-05-22T02:35:35.623Z",
+          "wordCount": 680,
+          "title": "TF-IDF vs Word Embeddings for Morbidity Identification in Clinical Notes: An Initial Study. (arXiv:2105.09632v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
+          "id": "http://arxiv.org/abs/2105.09702",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Profitlich_H/0/1/0/all/0/1\">Hans-J&#xfc;rgen Profitlich</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Sonntag_D/0/1/0/all/0/1\">Daniel Sonntag</a>",
+          "description": "We describe our work on information extraction in medical documents written\nin German, especially detecting negations using an architecture based on the\nUIMA pipeline. Based on our previous work on software modules to cover medical\nconcepts like diagnoses, examinations, etc. we employ a version of the NegEx\nregular expression algorithm with a large set of triggers as a baseline. We\nshow how a significantly smaller trigger set is sufficient to achieve similar\nresults, in order to reduce adaptation times to n…",
+          "link": "http://arxiv.org/abs/2105.09702",
+          "publishedOn": "2021-05-22T02:35:35.575Z",
+          "wordCount": 571,
+          "title": "A Case Study on Pros and Cons of Regular Expression Detection and Dependency Parsing for Negation Extraction from German Medical Documents. Technical Report. (arXiv:2105.09702v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
+          "id": "http://arxiv.org/abs/2105.09816",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Hofstatter_S/0/1/0/all/0/1\">Sebastian Hofst&#xe4;tter</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Mitra_B/0/1/0/all/0/1\">Bhaskar Mitra</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zamani_H/0/1/0/all/0/1\">Hamed Zamani</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Craswell_N/0/1/0/all/0/1\">Nick Craswell</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Hanbury_A/0/1/0/all/0/1\">Allan Hanbury</a>",
+          "description": "An emerging recipe for achieving state-of-the-art effectiveness in neural\ndocument re-ranking involves utilizing large pre-trained language models -\ne.g., BERT - to evaluate all individual passages in the document and then\naggregating the outputs by pooling or additional Transformer layers. A major\ndrawback of this approach is high query latency due to the cost of evaluating\nevery passage in the document with BERT. To make matters worse, this high\ninference cost and latency varies based on the length of the…",
+          "link": "http://arxiv.org/abs/2105.09816",
+          "publishedOn": "2021-05-22T02:35:35.534Z",
+          "wordCount": 659,
+          "title": "Intra-Document Cascading: Learning to Select Passages for Neural Document Ranking. (arXiv:2105.09816v1 [cs.IR])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
-          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
+          "id": "http://arxiv.org/abs/2105.09601",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Atri_Y/0/1/0/all/0/1\">Yash Kumar Atri</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Pramanick_S/0/1/0/all/0/1\">Shraman Pramanick</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Goyal_V/0/1/0/all/0/1\">Vikram Goyal</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Chakraborty_T/0/1/0/all/0/1\">Tanmoy Chakraborty</a>",
+          "description": "In recent years, abstractive text summarization with multimodal inputs has\nstarted drawing attention due to its ability to accumulate information from\ndifferent source modalities and generate a fluent textual summary. However,\nexisting methods use short videos as the visual modality and short summary as\nthe ground-truth, therefore, perform poorly on lengthy videos and long\nground-truth summary. Additionally, there exists no benchmark dataset to\ngeneralize this task on videos of varying lengths. In this pape…",
+          "link": "http://arxiv.org/abs/2105.09601",
+          "publishedOn": "2021-05-22T02:35:35.505Z",
+          "wordCount": 667,
+          "title": "See, Hear, Read: Leveraging Multimodality with Guided Attention for Abstractive Text Summarization. (arXiv:2105.09601v1 [cs.LG])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3443,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
+          "id": "http://arxiv.org/abs/2105.09458",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Lou_D/0/1/0/all/0/1\">Dongfang Lou</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Liao_Z/0/1/0/all/0/1\">Zhilin Liao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Deng_S/0/1/0/all/0/1\">Shumin Deng</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhang_N/0/1/0/all/0/1\">Ningyu Zhang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Chen_H/0/1/0/all/0/1\">Huajun Chen</a>",
+          "description": "We consider the problem of collectively detecting multiple events,\nparticularly in cross-sentence settings. The key to dealing with the problem is\nto encode semantic information and model event inter-dependency at a\ndocument-level. In this paper, we reformulate it as a Seq2Seq task and propose\na Multi-Layer Bidirectional Network (MLBiNet) to capture the document-level\nassociation of events and semantic information simultaneously. Specifically, a\nbidirectional decoder is firstly devised to model event inter-…",
+          "link": "http://arxiv.org/abs/2105.09458",
+          "publishedOn": "2021-05-22T02:35:35.491Z",
+          "wordCount": 569,
+          "title": "MLBiNet: A Cross-Sentence Collective Event Detection Network. (arXiv:2105.09458v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
-          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "publishedOn": "2021-05-12T08:00:00.000Z",
-          "wordCount": 1993,
-          "title": "Little Smashing Stories"
+          "id": "http://arxiv.org/abs/2105.09611",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Fernandez_Gonzalez_D/0/1/0/all/0/1\">Daniel Fern&#xe1;ndez-Gonz&#xe1;lez</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Gomez_Rodriguez_C/0/1/0/all/0/1\">Carlos G&#xf3;mez-Rodr&#xed;guez</a>",
+          "description": "Dependency parsing is a crucial step towards deep language understanding and,\ntherefore, widely demanded by numerous Natural Language Processing\napplications. In particular, left-to-right and top-down transition-based\nalgorithms that rely on Pointer Networks are among the most accurate approaches\nfor performing dependency parsing. Additionally, it has been observed for the\ntop-down algorithm that Pointer Networks' sequential decoding can be improved\nby implementing a hierarchical variant, more adequate to m…",
+          "link": "http://arxiv.org/abs/2105.09611",
+          "publishedOn": "2021-05-22T02:35:35.476Z",
+          "wordCount": 583,
+          "title": "Dependency Parsing with Bottom-up Hierarchical Pointer Networks. (arXiv:2105.09611v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
-          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries"
+          "id": "http://arxiv.org/abs/2105.09404",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Liu_L/0/1/0/all/0/1\">Ling Liu</a>",
+          "description": "Neural network approaches have been applied to computational morphology with\ngreat success, improving the performance of most tasks by a large margin and\nproviding new perspectives for modeling. This paper starts with a brief\nintroduction to computational morphology, followed by a review of recent work\non computational morphology with neural network approaches, to provide an\noverview of the area. In the end, we will analyze the advantages and problems\nof neural network approaches to computational morphology…",
+          "link": "http://arxiv.org/abs/2105.09404",
+          "publishedOn": "2021-05-22T02:35:35.455Z",
+          "wordCount": 505,
+          "title": "Computational Morphology with Neural Network Approaches. (arXiv:2105.09404v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
-          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "publishedOn": "2021-05-11T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin"
+          "id": "http://arxiv.org/abs/2105.09571",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Gloor_P/0/1/0/all/0/1\">P. Gloor</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Colladon_A/0/1/0/all/0/1\">A. Fronzetti Colladon</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Giacomelli_G/0/1/0/all/0/1\">G. Giacomelli</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Saran_T/0/1/0/all/0/1\">T. Saran</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Grippa_F/0/1/0/all/0/1\">F. Grippa</a>",
+          "description": "We investigate the impact of a novel method called \"virtual mirroring\" to\npromote employee self-reflection and impact customer satisfaction. The method\nis based on measuring communication patterns, through social network and\nsemantic analysis, and mirroring them back to the individual. Our goal is to\ndemonstrate that self-reflection can trigger a change in communication\nbehaviors, which lead to increased customer satisfaction. We illustrate and\ntest our approach analyzing e-mails of a large global services …",
+          "link": "http://arxiv.org/abs/2105.09571",
+          "publishedOn": "2021-05-22T02:35:35.445Z",
+          "wordCount": 611,
+          "title": "The impact of virtual mirroring on customer satisfaction. (arXiv:2105.09571v1 [cs.SI])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
+          "id": "http://arxiv.org/abs/2105.09501",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Pan_X/0/1/0/all/0/1\">Xiao Pan</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wang_M/0/1/0/all/0/1\">Mingxuan Wang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wu_L/0/1/0/all/0/1\">Liwei Wu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Li_L/0/1/0/all/0/1\">Lei Li</a>",
+          "description": "Existing multilingual machine translation approaches mainly focus on\nEnglish-centric directions, while the non-English directions still lag behind.\nIn this work, we aim to build a many-to-many translation system with an\nemphasis on the quality of non-English language directions. Our intuition is\nbased on the hypothesis that a universal cross-language representation leads to\nbetter multilingual translation performance. To this end, we propose \\method, a\ntraining method to obtain a single unified multilingual…",
+          "link": "http://arxiv.org/abs/2105.09501",
+          "publishedOn": "2021-05-22T02:35:35.421Z",
+          "wordCount": 576,
+          "title": "Contrastive Learning for Many-to-many Multilingual Neural Machine Translation. (arXiv:2105.09501v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
+          "id": "http://arxiv.org/abs/2105.09543",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Gao_T/0/1/0/all/0/1\">Tianyu Gao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Han_X/0/1/0/all/0/1\">Xu Han</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Qiu_K/0/1/0/all/0/1\">Keyue Qiu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Bai_Y/0/1/0/all/0/1\">Yuzhuo Bai</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Xie_Z/0/1/0/all/0/1\">Zhiyu Xie</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lin_Y/0/1/0/all/0/1\">Yankai Lin</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Liu_Z/0/1/0/all/0/1\">Zhiyuan Liu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Li_P/0/1/0/all/0/1\">Peng Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Sun_M/0/1/0/all/0/1\">Maosong Sun</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhou_J/0/1/0/all/0/1\">Jie Zhou</a>",
+          "description": "Distantly supervised (DS) relation extraction (RE) has attracted much\nattention in the past few years as it can utilize large-scale auto-labeled\ndata. However, its evaluation has long been a problem: previous works either\ntook costly and inconsistent methods to manually examine a small sample of\nmodel predictions, or directly test models on auto-labeled data -- which, by\nour check, produce as much as 53% wrong labels at the entity pair level in the\npopular NYT10 dataset. This problem has not only led to ina…",
+          "link": "http://arxiv.org/abs/2105.09543",
+          "publishedOn": "2021-05-22T02:35:35.409Z",
+          "wordCount": 643,
+          "title": "Manual Evaluation Matters: Reviewing Test Protocols of Distantly Supervised Relation Extraction. (arXiv:2105.09543v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
+          "id": "http://arxiv.org/abs/2105.09392",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Mai_G/0/1/0/all/0/1\">Gengchen Mai</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Janowicz_K/0/1/0/all/0/1\">Krzysztof Janowicz</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhu_R/0/1/0/all/0/1\">Rui Zhu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Cai_L/0/1/0/all/0/1\">Ling Cai</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lao_N/0/1/0/all/0/1\">Ni Lao</a>",
+          "description": "As an important part of Artificial Intelligence (AI), Question Answering (QA)\naims at generating answers to questions phrased in natural language. While\nthere has been substantial progress in open-domain question answering, QA\nsystems are still struggling to answer questions which involve geographic\nentities or concepts and that require spatial operations. In this paper, we\ndiscuss the problem of geographic question answering (GeoQA). We first\ninvestigate the reasons why geographic questions are difficult t…",
+          "link": "http://arxiv.org/abs/2105.09392",
+          "publishedOn": "2021-05-22T02:35:35.399Z",
+          "wordCount": 595,
+          "title": "Geographic Question Answering: Challenges, Uniqueness, Classification, and Future Directions. (arXiv:2105.09392v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
+          "id": "http://arxiv.org/abs/2105.09428",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Lahlou_C/0/1/0/all/0/1\">Chuhong Lahlou</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Crayton_A/0/1/0/all/0/1\">Ancil Crayton</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Trier_C/0/1/0/all/0/1\">Caroline Trier</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Willett_E/0/1/0/all/0/1\">Evan Willett</a>",
+          "description": "In 2019, The Centers for Medicare and Medicaid Services (CMS) launched an\nArtificial Intelligence (AI) Health Outcomes Challenge seeking solutions to\npredict risk in value-based care for incorporation into CMS Innovation Center\npayment and service delivery models. Recently, modern language models have\nplayed key roles in a number of health related tasks. This paper presents, to\nthe best of our knowledge, the first application of these models to patient\nreadmission prediction. To facilitate this, we create a…",
+          "link": "http://arxiv.org/abs/2105.09428",
+          "publishedOn": "2021-05-22T02:35:35.376Z",
+          "wordCount": 592,
+          "title": "Explainable Health Risk Predictor with Transformer-based Medicare Claim Encoder. (arXiv:2105.09428v1 [cs.LG])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
+          "id": "http://arxiv.org/abs/2105.09653",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Bestgen_Y/0/1/0/all/0/1\">Yves Bestgen</a>",
+          "description": "This paper describes the system developed by the Laboratoire d'analyse\nstatistique des textes (LAST) for the Lexical Complexity Prediction shared task\nat SemEval-2021. The proposed system is made up of a LightGBM model fed with\nfeatures obtained from many word frequency lists, published lexical norms and\npsychometric data. For tackling the specificity of the multi-word task, it uses\nbigram association measures. Despite that the only contextual feature used was\nsentence length, the system achieved an honorab…",
+          "link": "http://arxiv.org/abs/2105.09653",
+          "publishedOn": "2021-05-22T02:35:35.359Z",
+          "wordCount": 533,
+          "title": "LAST at SemEval-2021 Task 1: Improving Multi-Word Complexity Prediction Using Bigram Association Measures. (arXiv:2105.09653v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+          "id": "http://arxiv.org/abs/2105.09509",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Shen_S/0/1/0/all/0/1\">Shirong Shen</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Wu_T/0/1/0/all/0/1\">Tongtong Wu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Qi_G/0/1/0/all/0/1\">Guilin Qi</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Li_Y/0/1/0/all/0/1\">Yuan-Fang Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Haffari_G/0/1/0/all/0/1\">Gholamreza Haffari</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Bi_S/0/1/0/all/0/1\">Sheng Bi</a>",
+          "description": "Event detection (ED) aims at detecting event trigger words in sentences and\nclassifying them into specific event types. In real-world applications, ED\ntypically does not have sufficient labelled data, thus can be formulated as a\nfew-shot learning problem. To tackle the issue of low sample diversity in\nfew-shot ED, we propose a novel knowledge-based few-shot event detection method\nwhich uses a definition-based encoder to introduce external event knowledge as\nthe knowledge prior of event types. Furthermore, a…",
+          "link": "http://arxiv.org/abs/2105.09509",
+          "publishedOn": "2021-05-22T02:35:35.337Z",
+          "wordCount": 568,
+          "title": "Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection. (arXiv:2105.09509v1 [cs.CL])"
         },
         {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
-          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2430,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "6098ce302cd0545b5e944d0b",
-          "author": "",
-          "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
-          "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
-          "publishedOn": "2021-05-21T15:33:45.000Z",
-          "wordCount": 4309,
-          "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
-        },
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": "",
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
-        },
-        {
-          "id": "60a694ab906c5207e3a7f544",
-          "author": "",
-          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
-          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
-          "publishedOn": "2021-05-20T17:12:29.000Z",
-          "wordCount": 436,
-          "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": "",
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
-        },
-        {
-          "id": "60a341f5906c5207e3a7da61",
-          "author": "",
-          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
-          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
-          "publishedOn": "2021-05-19T23:17:21.000Z",
-          "wordCount": 2742,
-          "title": "How to Use CSS Selectors to Style Your Web Page"
-        },
-        {
-          "id": "60a42386906c5207e3a7dfe2",
-          "author": "",
-          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
-          "link": "https://www.freecodecamp.org/news/what-is-web3/",
-          "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2087,
-          "title": "What is Web3? The Decentralized Internet of the Future Explained"
-        },
-        {
-          "id": "60a469ec906c5207e3a7e1b9",
-          "author": "",
-          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
-          "publishedOn": "2021-05-19T17:30:08.000Z",
-          "wordCount": 1981,
-          "title": "How to Optimize for Change in Software Development"
-        },
-        {
-          "id": "60a53182906c5207e3a7e588",
-          "author": "",
-          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
-          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
-          "publishedOn": "2021-05-18T21:04:00.000Z",
-          "wordCount": 2258,
-          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
-        },
-        {
-          "id": "60a3780f906c5207e3a7db5f",
-          "author": "",
-          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
-          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
-          "publishedOn": "2021-05-18T17:12:59.000Z",
-          "wordCount": 1973,
-          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
+          "id": "http://arxiv.org/abs/2105.09567",
+          "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Wu_L/0/1/0/all/0/1\">Lianwei Wu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Rao_Y/0/1/0/all/0/1\">Yuan Rao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Lan_Y/0/1/0/all/0/1\">Yuqian Lan</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Sun_L/0/1/0/all/0/1\">Ling Sun</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Qi_Z/0/1/0/all/0/1\">Zhaoyin Qi</a>",
+          "description": "Recent studies constructing direct interactions between the claim and each\nsingle user response (a comment or a relevant article) to capture evidence have\nshown remarkable success in interpretable claim verification. Owing to\ndifferent single responses convey different cognition of individual users\n(i.e., audiences), the captured evidence belongs to the perspective of\nindividual cognition. However, individuals' cognition of social things is not\nalways able to truly reflect the objective. There may be one-si…",
+          "link": "http://arxiv.org/abs/2105.09567",
+          "publishedOn": "2021-05-22T02:35:35.305Z",
+          "wordCount": 672,
+          "title": "Unified Dual-view Cognitive Model for Interpretable Claim Verification. (arXiv:2105.09567v1 [cs.CL])"
         }
       ]
     }

@@ -1,662 +1,683 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T02:21:12.417Z</id>
+    <id>https://haichao592.github.io/arxiv/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T02:21:12.417Z</updated>
+    <updated>2021-05-22T02:35:36.153Z</updated>
     <generator>osmosfeed 1.7.2</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://haichao592.github.io/arxiv/index.html"/>
+    <link rel="self" href="https://haichao592.github.io/arxiv/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
-        <id>https://css-tricks.com/?p=340991</id>
-        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
-        <updated>2021-05-21T23:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
-The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Encoding Explanatory Knowledge for Zero-shot Science Question Answering. (arXiv:2105.05737v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2105.05737</id>
+        <link href="http://arxiv.org/abs/2105.05737"/>
+        <updated>2021-05-22T02:35:36.117Z</updated>
+        <summary type="html"><![CDATA[This paper describes N-XKT (Neural encoding based on eXplanatory Knowledge
+Transfer), a novel method for the automatic transfer of explanatory knowledge
+through neural encoding mechanisms. We demonstrate that N-XKT is able to
+improve accuracy and generalization on science Question Answering (QA).
+Specifically, by leveraging facts from background explanatory knowledge
+corpora, the N-XKT model shows a clear improvement on zero-shot QA.
+Furthermore, we show that N-XKT can be fine-tuned on a target QA dataset,
+…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Zhou_Z/0/1/0/all/0/1"&gt;Zili Zhou&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Valentino_M/0/1/0/all/0/1"&gt;Marco Valentino&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Landers_D/0/1/0/all/0/1"&gt;Donal Landers&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Freitas_A/0/1/0/all/0/1"&gt;Andre Freitas&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
-        <id>6098ce302cd0545b5e944d0b</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
-        <updated>2021-05-21T15:33:45.000Z</updated>
-        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
+        <title type="html"><![CDATA[Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction. (arXiv:2105.06965v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2105.06965</id>
+        <link href="http://arxiv.org/abs/2105.06965"/>
+        <updated>2021-05-22T02:35:36.111Z</updated>
+        <summary type="html"><![CDATA[When language models process syntactically complex sentences, do they use
+abstract syntactic information present in these sentences in a manner that is
+consistent with the grammar of English, or do they rely solely on a set of
+heuristics? We propose a method to tackle this question, AlterRep. For any
+linguistic feature in the sentence, AlterRep allows us to generate
+counterfactual representations by altering how this feature is encoded, while
+leaving all other aspects of the original representation intact. …]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Ravfogel_S/0/1/0/all/0/1"&gt;Shauli Ravfogel&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Prasad_G/0/1/0/all/0/1"&gt;Grusha Prasad&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Linzen_T/0/1/0/all/0/1"&gt;Tal Linzen&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Goldberg_Y/0/1/0/all/0/1"&gt;Yoav Goldberg&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
-        <id>https://css-tricks.com/?p=340825</id>
-        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
-        <updated>2021-05-21T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
-The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[FastCorrect: Fast Error Correction with Edit Alignment for Automatic Speech Recognition. (arXiv:2105.03842v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2105.03842</id>
+        <link href="http://arxiv.org/abs/2105.03842"/>
+        <updated>2021-05-22T02:35:36.105Z</updated>
+        <summary type="html"><![CDATA[Error correction techniques have been used to refine the output sentences
+from automatic speech recognition (ASR) models and achieve a lower word error
+rate (WER) than original ASR outputs. Previous works usually use a
+sequence-to-sequence model to correct an ASR output sentence autoregressively,
+which causes large latency and cannot be deployed in online ASR services. A
+straightforward solution to reduce latency, inspired by non-autoregressive
+(NAR) neural machine translation, is to use an NAR sequence gen…]]></summary>
         <author>
-            <name>Adam Rackis</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Leng_Y/0/1/0/all/0/1"&gt;Yichong Leng&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Tan_X/0/1/0/all/0/1"&gt;Xu Tan&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhu_L/0/1/0/all/0/1"&gt;Linchen Zhu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Xu_J/0/1/0/all/0/1"&gt;Jin Xu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Luo_R/0/1/0/all/0/1"&gt;Renqian Luo&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Liu_L/0/1/0/all/0/1"&gt;Linquan Liu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Qin_T/0/1/0/all/0/1"&gt;Tao Qin&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Li_X/0/1/0/all/0/1"&gt;Xiang-Yang Li&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lin_E/0/1/0/all/0/1"&gt;Ed Lin&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Liu_T/0/1/0/all/0/1"&gt;Tie-Yan Liu&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Hell]]></title>
-        <id>https://css-tricks.com/?p=340919</id>
-        <link href="https://csshell.dev/"/>
-        <updated>2021-05-21T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
-From Stefánia Péter. 
-Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
-The post CSS Hell appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Infinite use of finite means: Zero-Shot Generalization using Compositional Emergent Protocols. (arXiv:2012.05011v3 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2012.05011</id>
+        <link href="http://arxiv.org/abs/2012.05011"/>
+        <updated>2021-05-22T02:35:36.090Z</updated>
+        <summary type="html"><![CDATA[Human language has been described as a system that makes \textit{use of
+finite means to express an unlimited array of thoughts}. Of particular interest
+is the aspect of compositionality, whereby, the meaning of a compound language
+expression can be deduced from the meaning of its constituent parts. If
+artificial agents can develop compositional communication protocols akin to
+human language, they can be made to seamlessly generalize to unseen
+combinations. However, the real question is, how do we induce com…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Hazra_R/0/1/0/all/0/1"&gt;Rishi Hazra&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Dixit_S/0/1/0/all/0/1"&gt;Sonu Dixit&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Sen_S/0/1/0/all/0/1"&gt;Sayambhu Sen&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
-        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
-        <updated>2021-05-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
+        <title type="html"><![CDATA[Multilingual Offensive Language Identification for Low-resource Languages. (arXiv:2105.05996v3 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2105.05996</id>
+        <link href="http://arxiv.org/abs/2105.05996"/>
+        <updated>2021-05-22T02:35:36.075Z</updated>
+        <summary type="html"><![CDATA[Offensive content is pervasive in social media and a reason for concern to
+companies and government organizations. Several studies have been recently
+published investigating methods to detect the various forms of such content
+(e.g. hate speech, cyberbullying, and cyberaggression). The clear majority of
+these studies deal with English partially because most annotated datasets
+available contain English data. In this paper, we take advantage of available
+English datasets by applying cross-lingual contextual wo…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Ranasinghe_T/0/1/0/all/0/1"&gt;Tharindu Ranasinghe&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zampieri_M/0/1/0/all/0/1"&gt;Marcos Zampieri&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON in CSS]]></title>
-        <id>https://css-tricks.com/?p=340599</id>
-        <link href="https://css-tricks.com/json-in-css/"/>
-        <updated>2021-05-20T22:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
-The post JSON in CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders. (arXiv:2105.03505v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2105.03505</id>
+        <link href="http://arxiv.org/abs/2105.03505"/>
+        <updated>2021-05-22T02:35:36.067Z</updated>
+        <summary type="html"><![CDATA[Learning prerequisite chains is an essential task for efficiently acquiring
+knowledge in both known and unknown domains. For example, one may be an expert
+in the natural language processing (NLP) domain but want to determine the best
+order to learn new concepts in an unfamiliar Computer Vision domain (CV). Both
+domains share some common concepts, such as machine learning basics and deep
+learning models. In this paper, we propose unsupervised cross-domain concept
+prerequisite chain learning using an optimize…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Li_I/0/1/0/all/0/1"&gt;Irene Li&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Yan_V/0/1/0/all/0/1"&gt;Vanessa Yan&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Li_T/0/1/0/all/0/1"&gt;Tianxiao Li&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Qu_R/0/1/0/all/0/1"&gt;Rihao Qu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Radev_D/0/1/0/all/0/1"&gt;Dragomir Radev&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS!]]></title>
-        <id>https://css-tricks.com/?p=340933</id>
-        <link href="https://web.dev/learn/css/"/>
-        <updated>2021-05-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
-The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter. (arXiv:2105.07148v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2105.07148</id>
+        <link href="http://arxiv.org/abs/2105.07148"/>
+        <updated>2021-05-22T02:35:36.057Z</updated>
+        <summary type="html"><![CDATA[Lexicon information and pre-trained models, such as BERT, have been combined
+to explore Chinese sequence labelling tasks due to their respective strengths.
+However, existing methods solely fuse lexicon features via a shallow and random
+initialized sequence layer and do not integrate them into the bottom layers of
+BERT. In this paper, we propose Lexicon Enhanced BERT (LEBERT) for Chinese
+sequence labelling, which integrates external lexicon knowledge into BERT
+layers directly by a Lexicon Adapter layer. Comp…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Liu_W/0/1/0/all/0/1"&gt;Wei Liu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Fu_X/0/1/0/all/0/1"&gt;Xiyan Fu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhang_Y/0/1/0/all/0/1"&gt;Yue Zhang&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Xiao_W/0/1/0/all/0/1"&gt;Wenming Xiao&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
+        <title type="html"><![CDATA["Subverting the Jewtocracy": Online Antisemitism Detection Using Multimodal Deep Learning. (arXiv:2104.05947v2 [cs.MM] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2104.05947</id>
+        <link href="http://arxiv.org/abs/2104.05947"/>
+        <updated>2021-05-22T02:35:35.996Z</updated>
+        <summary type="html"><![CDATA[The exponential rise of online social media has enabled the creation,
+distribution, and consumption of information at an unprecedented rate. However,
+it has also led to the burgeoning of various forms of online abuse. Increasing
+cases of online antisemitism have become one of the major concerns because of
+its socio-political consequences. Unlike other major forms of online abuse like
+racism, sexism, etc., online antisemitism has not been studied much from a
+machine learning perspective. To the best of our k…]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Chandra_M/0/1/0/all/0/1"&gt;Mohit Chandra&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Pailla_D/0/1/0/all/0/1"&gt;Dheeraj Pailla&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Bhatia_H/0/1/0/all/0/1"&gt;Himanshu Bhatia&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Sanchawala_A/0/1/0/all/0/1"&gt;Aadilmehdi Sanchawala&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Gupta_M/0/1/0/all/0/1"&gt;Manish Gupta&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Shrivastava_M/0/1/0/all/0/1"&gt;Manish Shrivastava&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kumaraguru_P/0/1/0/all/0/1"&gt;Ponnurangam Kumaraguru&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
-        <id>60a694ab906c5207e3a7f544</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
-        <updated>2021-05-20T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
+        <title type="html"><![CDATA[KLUE: Korean Language Understanding Evaluation. (arXiv:2105.09680v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09680</id>
+        <link href="http://arxiv.org/abs/2105.09680"/>
+        <updated>2021-05-22T02:35:35.907Z</updated>
+        <summary type="html"><![CDATA[We introduce Korean Language Understanding Evaluation (KLUE) benchmark. KLUE
+is a collection of 8 Korean natural language understanding (NLU) tasks,
+including Topic Classification, Semantic Textual Similarity, Natural Language
+Inference, Named Entity Recognition, Relation Extraction, Dependency Parsing,
+Machine Reading Comprehension, and Dialogue State Tracking. We build all of the
+tasks from scratch from diverse source corpora while respecting copyrights, to
+ensure accessibility for anyone without any rest…]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Park_S/0/1/0/all/0/1"&gt;Sungjoon Park&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Moon_J/0/1/0/all/0/1"&gt;Jihyung Moon&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kim_S/0/1/0/all/0/1"&gt;Sungdong Kim&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cho_W/0/1/0/all/0/1"&gt;Won Ik Cho&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Han_J/0/1/0/all/0/1"&gt;Jiyoon Han&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Park_J/0/1/0/all/0/1"&gt;Jangwon Park&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Song_C/0/1/0/all/0/1"&gt;Chisung Song&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kim_J/0/1/0/all/0/1"&gt;Junseong Kim&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Song_Y/0/1/0/all/0/1"&gt;Yongsook Song&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Oh_T/0/1/0/all/0/1"&gt;Taehwan Oh&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lee_J/0/1/0/all/0/1"&gt;Joohong Lee&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Oh_J/0/1/0/all/0/1"&gt;Juhyun Oh&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lyu_S/0/1/0/all/0/1"&gt;Sungwon Lyu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Jeong_Y/0/1/0/all/0/1"&gt;Younghoon Jeong&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lee_I/0/1/0/all/0/1"&gt;Inkwon Lee&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Seo_S/0/1/0/all/0/1"&gt;Sangwoo Seo&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lee_D/0/1/0/all/0/1"&gt;Dongjun Lee&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kim_H/0/1/0/all/0/1"&gt;Hyunwoo Kim&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lee_M/0/1/0/all/0/1"&gt;Myeonghwa Lee&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Jang_S/0/1/0/all/0/1"&gt;Seongbo Jang&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Do_S/0/1/0/all/0/1"&gt;Seungwon Do&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kim_S/0/1/0/all/0/1"&gt;Sunkyoung Kim&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lim_K/0/1/0/all/0/1"&gt;Kyungtae Lim&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lee_J/0/1/0/all/0/1"&gt;Jongwon Lee&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Park_K/0/1/0/all/0/1"&gt;Kyumin Park&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Shin_J/0/1/0/all/0/1"&gt;Jamin Shin&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kim_S/0/1/0/all/0/1"&gt;Seonghyun Kim&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Park_L/0/1/0/all/0/1"&gt;Lucy Park&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Oh_A/0/1/0/all/0/1"&gt;Alice Oh&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Ha_J/0/1/0/all/0/1"&gt;Jungwoo Ha&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cho_K/0/1/0/all/0/1"&gt;Kyunghyun Cho Alice Oh Jungwoo Ha Kyunghyun Cho&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
-        <id>60a4b5c7906c5207e3a7e2bb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
-        <updated>2021-05-20T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
+        <title type="html"><![CDATA[Towards Target-dependent Sentiment Classification in News Articles. (arXiv:2105.09660v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09660</id>
+        <link href="http://arxiv.org/abs/2105.09660"/>
+        <updated>2021-05-22T02:35:35.900Z</updated>
+        <summary type="html"><![CDATA[Extensive research on target-dependent sentiment classification (TSC) has led
+to strong classification performances in domains where authors tend to
+explicitly express sentiment about specific entities or topics, such as in
+reviews or on social media. We investigate TSC in news articles, a much less
+researched domain, despite the importance of news as an essential information
+source in individual and societal decision making. This article introduces
+NewsTSC, a manually annotated dataset to explore TSC on ne…]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Hamborg_F/0/1/0/all/0/1"&gt;Felix Hamborg&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Donnay_K/0/1/0/all/0/1"&gt;Karsten Donnay&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Gipp_B/0/1/0/all/0/1"&gt;Bela Gipp&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
-        <id>60a36742906c5207e3a7da6e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
-        <updated>2021-05-20T14:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
+        <title type="html"><![CDATA[Exploiting News Article Structure for Automatic Corpus Generation. (arXiv:2010.11574v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2010.11574</id>
+        <link href="http://arxiv.org/abs/2010.11574"/>
+        <updated>2021-05-22T02:35:35.892Z</updated>
+        <summary type="html"><![CDATA[Transformers represent the state-of-the-art in Natural Language Processing
+(NLP) in recent years, proving effective even in tasks done in low-resource
+languages. While pretrained transformers for these languages can be made, it is
+challenging to measure their true performance and capacity due to the lack of
+hard benchmark datasets, as well as the difficulty and cost of producing them.
+In this paper, we present three contributions: First, we propose a methodology
+for automatically producing Natural Language …]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Cruz_J/0/1/0/all/0/1"&gt;Jan Christian Blaise Cruz&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Resabal_J/0/1/0/all/0/1"&gt;Jose Kristian Resabal&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lin_J/0/1/0/all/0/1"&gt;James Lin&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Velasco_D/0/1/0/all/0/1"&gt;Dan John Velasco&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cheng_C/0/1/0/all/0/1"&gt;Charibeth Cheng&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Mondegreen: A Post-Processing Solution to Speech Recognition Error Correction for Voice Search Queries. (arXiv:2105.09930v1 [cs.SD])]]></title>
+        <id>http://arxiv.org/abs/2105.09930</id>
+        <link href="http://arxiv.org/abs/2105.09930"/>
+        <updated>2021-05-22T02:35:35.886Z</updated>
+        <summary type="html"><![CDATA[As more and more online search queries come from voice, automatic speech
+recognition becomes a key component to deliver relevant search results. Errors
+introduced by automatic speech recognition (ASR) lead to irrelevant search
+results returned to the user, thus causing user dissatisfaction. In this paper,
+we introduce an approach, Mondegreen, to correct voice queries in text space
+without depending on audio signals, which may not always be available due to
+system constraints or privacy or bandwidth (for exa…]]></summary>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Sodhi_S/0/1/0/all/0/1"&gt;Sukhdeep S. Sodhi&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Chio_E/0/1/0/all/0/1"&gt;Ellie Ka-In Chio&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Jash_A/0/1/0/all/0/1"&gt;Ambarish Jash&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Ontanon_S/0/1/0/all/0/1"&gt;Santiago Onta&amp;#xf1;&amp;#xf3;n&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Apte_A/0/1/0/all/0/1"&gt;Ajit Apte&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kumar_A/0/1/0/all/0/1"&gt;Ankit Kumar&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Jeje_A/0/1/0/all/0/1"&gt;Ayooluwakunmi Jeje&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kuzmin_D/0/1/0/all/0/1"&gt;Dima Kuzmin&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Fung_H/0/1/0/all/0/1"&gt;Harry Fung&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cheng_H/0/1/0/all/0/1"&gt;Heng-Tze Cheng&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Effrat_J/0/1/0/all/0/1"&gt;Jon Effrat&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Bali_T/0/1/0/all/0/1"&gt;Tarush Bali&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Jindal_N/0/1/0/all/0/1"&gt;Nitin Jindal&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cao_P/0/1/0/all/0/1"&gt;Pei Cao&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Singh_S/0/1/0/all/0/1"&gt;Sarvjeet Singh&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhou_S/0/1/0/all/0/1"&gt;Senqiang Zhou&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Khan_T/0/1/0/all/0/1"&gt;Tameen Khan&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wankhede_A/0/1/0/all/0/1"&gt;Amol Wankhede&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Alzantot_M/0/1/0/all/0/1"&gt;Moustafa Alzantot&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wu_A/0/1/0/all/0/1"&gt;Allen Wu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Chandra_T/0/1/0/all/0/1"&gt;Tushar Chandra&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Multi-Head Attention: Collaborate Instead of Concatenate. (arXiv:2006.16362v2 [cs.LG] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2006.16362</id>
+        <link href="http://arxiv.org/abs/2006.16362"/>
+        <updated>2021-05-22T02:35:35.869Z</updated>
+        <summary type="html"><![CDATA[Attention layers are widely used in natural language processing (NLP) and are
+beginning to influence computer vision architectures. Training very large
+transformer models allowed significant improvement in both fields, but once
+trained, these networks show symptoms of over-parameterization. For instance,
+it is known that many attention heads can be pruned without impacting accuracy.
+This work aims to enhance current understanding on how multiple heads interact.
+Motivated by the observation that attention he…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Cordonnier_J/0/1/0/all/0/1"&gt;Jean-Baptiste Cordonnier&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Loukas_A/0/1/0/all/0/1"&gt;Andreas Loukas&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Jaggi_M/0/1/0/all/0/1"&gt;Martin Jaggi&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <title type="html"><![CDATA[Measuring Coding Challenge Competence With APPS. (arXiv:2105.09938v1 [cs.SE])]]></title>
+        <id>http://arxiv.org/abs/2105.09938</id>
+        <link href="http://arxiv.org/abs/2105.09938"/>
+        <updated>2021-05-22T02:35:35.861Z</updated>
+        <summary type="html"><![CDATA[While programming is one of the most broadly applicable skills in modern
+society, modern machine learning models still cannot code solutions to basic
+problems. It can be difficult to accurately assess code generation performance,
+and there has been surprisingly little work on evaluating code generation in a
+way that is both flexible and rigorous. To meet this challenge, we introduce
+APPS, a benchmark for code generation. Unlike prior work in more restricted
+settings, our benchmark measures the ability of mo…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Hendrycks_D/0/1/0/all/0/1"&gt;Dan Hendrycks&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Basart_S/0/1/0/all/0/1"&gt;Steven Basart&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kadavath_S/0/1/0/all/0/1"&gt;Saurav Kadavath&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Mazeika_M/0/1/0/all/0/1"&gt;Mantas Mazeika&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Arora_A/0/1/0/all/0/1"&gt;Akul Arora&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Guo_E/0/1/0/all/0/1"&gt;Ethan Guo&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Burns_C/0/1/0/all/0/1"&gt;Collin Burns&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Puranik_S/0/1/0/all/0/1"&gt;Samir Puranik&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+He_H/0/1/0/all/0/1"&gt;Horace He&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Song_D/0/1/0/all/0/1"&gt;Dawn Song&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Steinhardt_J/0/1/0/all/0/1"&gt;Jacob Steinhardt&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <title type="html"><![CDATA[Head-driven Phrase Structure Parsing in O($n^3$) Time Complexity. (arXiv:2105.09835v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09835</id>
+        <link href="http://arxiv.org/abs/2105.09835"/>
+        <updated>2021-05-22T02:35:35.853Z</updated>
+        <summary type="html"><![CDATA[Constituent and dependency parsing, the two classic forms of syntactic
+parsing, have been found to benefit from joint training and decoding under a
+uniform formalism, Head-driven Phrase Structure Grammar (HPSG). However,
+decoding this unified grammar has a higher time complexity ($O(n^5)$) than
+decoding either form individually ($O(n^3)$) since more factors have to be
+considered during decoding. We thus propose an improved head scorer that helps
+achieve a novel performance-preserved parser in $O$($n^3$) tim…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Li_Z/0/1/0/all/0/1"&gt;Zuchao Li&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhou_J/0/1/0/all/0/1"&gt;Junru Zhou&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhao_H/0/1/0/all/0/1"&gt;Hai Zhao&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Parnow_K/0/1/0/all/0/1"&gt;Kevin Parnow&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering. (arXiv:2012.00955v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2012.00955</id>
+        <link href="http://arxiv.org/abs/2012.00955"/>
+        <updated>2021-05-22T02:35:35.846Z</updated>
+        <summary type="html"><![CDATA[Recent works have shown that language models (LM) capture different types of
+knowledge regarding facts or common sense. However, because no model is
+perfect, they still fail to provide appropriate answers in many cases. In this
+paper, we ask the question "how can we know when language models know, with
+confidence, the answer to a particular query?" We examine this question from
+the point of view of calibration, the property of a probabilistic model's
+predicted probabilities actually being well correlated wi…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Jiang_Z/0/1/0/all/0/1"&gt;Zhengbao Jiang&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Araki_J/0/1/0/all/0/1"&gt;Jun Araki&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Ding_H/0/1/0/all/0/1"&gt;Haibo Ding&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Neubig_G/0/1/0/all/0/1"&gt;Graham Neubig&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
-        <id>60a341f5906c5207e3a7da61</id>
-        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
-        <updated>2021-05-19T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
+        <title type="html"><![CDATA[UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning. (arXiv:2012.15409v3 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2012.15409</id>
+        <link href="http://arxiv.org/abs/2012.15409"/>
+        <updated>2021-05-22T02:35:35.838Z</updated>
+        <summary type="html"><![CDATA[Existed pre-training methods either focus on single-modal tasks or
+multi-modal tasks, and cannot effectively adapt to each other. They can only
+utilize single-modal data (i.e. text or image) or limited multi-modal data
+(i.e. image-text pairs). In this work, we propose a unified-modal pre-training
+architecture, namely UNIMO, which can effectively adapt to both single-modal
+and multi-modal understanding and generation tasks. Large scale of free text
+corpus and image collections can be utilized to improve the …]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Li_W/0/1/0/all/0/1"&gt;Wei Li&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Gao_C/0/1/0/all/0/1"&gt;Can Gao&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Niu_G/0/1/0/all/0/1"&gt;Guocheng Niu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Xiao_X/0/1/0/all/0/1"&gt;Xinyan Xiao&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Liu_H/0/1/0/all/0/1"&gt;Hao Liu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Liu_J/0/1/0/all/0/1"&gt;Jiachen Liu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wu_H/0/1/0/all/0/1"&gt;Hua Wu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wang_H/0/1/0/all/0/1"&gt;Haifeng Wang&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
-        <id>60a42386906c5207e3a7dfe2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
-        <updated>2021-05-19T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <title type="html"><![CDATA[A practical introduction to the Rational Speech Act modeling framework. (arXiv:2105.09867v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09867</id>
+        <link href="http://arxiv.org/abs/2105.09867"/>
+        <updated>2021-05-22T02:35:35.829Z</updated>
+        <summary type="html"><![CDATA[Recent advances in computational cognitive science (i.e., simulation-based
+probabilistic programs) have paved the way for significant progress in formal,
+implementable models of pragmatics. Rather than describing a pragmatic
+reasoning process in prose, these models formalize and implement one, deriving
+both qualitative and quantitative predictions of human behavior -- predictions
+that consistently prove correct, demonstrating the viability and value of the
+framework. The current paper provides a practical i…]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Scontras_G/0/1/0/all/0/1"&gt;Gregory Scontras&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Tessler_M/0/1/0/all/0/1"&gt;Michael Henry Tessler&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Franke_M/0/1/0/all/0/1"&gt;Michael Franke&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
-        <id>60a469ec906c5207e3a7e1b9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
-        <updated>2021-05-19T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <title type="html"><![CDATA[On Cross-Dataset Generalization in Automatic Detection of Online Abuse. (arXiv:2010.07414v3 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2010.07414</id>
+        <link href="http://arxiv.org/abs/2010.07414"/>
+        <updated>2021-05-22T02:35:35.810Z</updated>
+        <summary type="html"><![CDATA[NLP research has attained high performances in abusive language detection as
+a supervised classification task. While in research settings, training and test
+datasets are usually obtained from similar data samples, in practice systems
+are often applied on data that are different from the training set in topic and
+class distributions. Also, the ambiguity in class definitions inherited in this
+task aggravates the discrepancies between source and target datasets. We
+explore the topic bias and the task formulati…]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Nejadgholi_I/0/1/0/all/0/1"&gt;Isar Nejadgholi&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kiritchenko_S/0/1/0/all/0/1"&gt;Svetlana Kiritchenko&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[A comprehensive comparative evaluation and analysis of Distributional Semantic Models. (arXiv:2105.09825v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09825</id>
+        <link href="http://arxiv.org/abs/2105.09825"/>
+        <updated>2021-05-22T02:35:35.798Z</updated>
+        <summary type="html"><![CDATA[Distributional semantics has deeply changed in the last decades. First,
+predict models stole the thunder from traditional count ones, and more recently
+both of them were replaced in many NLP applications by contextualized vectors
+produced by Transformer neural language models. Although an extensive body of
+research has been devoted to Distributional Semantic Model (DSM) evaluation, we
+still lack a thorough comparison with respect to tested models, semantic tasks,
+and benchmark datasets. Moreover, previous w…]]></summary>
         <author>
-            <name>Shubham Jain</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Lenci_A/0/1/0/all/0/1"&gt;Alessandro Lenci&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Sahlgren_M/0/1/0/all/0/1"&gt;Magnus Sahlgren&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Jeuniaux_P/0/1/0/all/0/1"&gt;Patrick Jeuniaux&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Gyllensten_A/0/1/0/all/0/1"&gt;Amaru Cuba Gyllensten&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Miliani_M/0/1/0/all/0/1"&gt;Martina Miliani&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
+        <title type="html"><![CDATA[Robustness of end-to-end Automatic Speech Recognition Models -- A Case Study using Mozilla DeepSpeech. (arXiv:2105.09742v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09742</id>
+        <link href="http://arxiv.org/abs/2105.09742"/>
+        <updated>2021-05-22T02:35:35.788Z</updated>
+        <summary type="html"><![CDATA[When evaluating the performance of automatic speech recognition models,
+usually word error rate within a certain dataset is used. Special care must be
+taken in understanding the dataset in order to report realistic performance
+numbers. We argue that many performance numbers reported probably underestimate
+the expected error rate. We conduct experiments controlling for selection bias,
+gender as well as overlap (between training and test data) in content, voices,
+and recording conditions. We find that content…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Agarwal_A/0/1/0/all/0/1"&gt;Aashish Agarwal&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zesch_T/0/1/0/all/0/1"&gt;Torsten Zesch&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <title type="html"><![CDATA[High-Fidelity and Low-Latency Universal Neural Vocoder based on Multiband WaveRNN with Data-Driven Linear Prediction for Discrete Waveform Modeling. (arXiv:2105.09856v1 [cs.SD])]]></title>
+        <id>http://arxiv.org/abs/2105.09856</id>
+        <link href="http://arxiv.org/abs/2105.09856"/>
+        <updated>2021-05-22T02:35:35.768Z</updated>
+        <summary type="html"><![CDATA[This paper presents a novel high-fidelity and low-latency universal neural
+vocoder framework based on multiband WaveRNN with data-driven linear prediction
+for discrete waveform modeling (MWDLP). MWDLP employs a coarse-fine bit WaveRNN
+architecture for 10-bit mu-law waveform modeling. A sparse gated recurrent unit
+with a relatively large size of hidden units is utilized, while the multiband
+modeling is deployed to achieve real-time low-latency usage. A novel technique
+for data-driven linear prediction (LP) w…]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Tobing_P/0/1/0/all/0/1"&gt;Patrick Lumban Tobing&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Toda_T/0/1/0/all/0/1"&gt;Tomoki Toda&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Simplifying Paragraph-level Question Generation via Transformer Language Models. (arXiv:2005.01107v3 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2005.01107</id>
+        <link href="http://arxiv.org/abs/2005.01107"/>
+        <updated>2021-05-22T02:35:35.758Z</updated>
+        <summary type="html"><![CDATA[Question generation (QG) is a natural language generation task where a model
+is trained to ask questions corresponding to some input text. Most recent
+approaches frame QG as a sequence-to-sequence problem and rely on additional
+features and mechanisms to increase performance; however, these often increase
+model complexity, and can rely on auxiliary data unavailable in practical use.
+A single Transformer-based unidirectional language model leveraging transfer
+learning can be used to produce high quality ques…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Lopez_L/0/1/0/all/0/1"&gt;Luis Enrico Lopez&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cruz_D/0/1/0/all/0/1"&gt;Diane Kathryn Cruz&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cruz_J/0/1/0/all/0/1"&gt;Jan Christian Blaise Cruz&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cheng_C/0/1/0/all/0/1"&gt;Charibeth Cheng&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
-        <id>60a3780f906c5207e3a7db5f</id>
-        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
-        <updated>2021-05-18T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
+        <title type="html"><![CDATA[Low-Latency Real-Time Non-Parallel Voice Conversion based on Cyclic Variational Autoencoder and Multiband WaveRNN with Data-Driven Linear Prediction. (arXiv:2105.09858v1 [cs.SD])]]></title>
+        <id>http://arxiv.org/abs/2105.09858</id>
+        <link href="http://arxiv.org/abs/2105.09858"/>
+        <updated>2021-05-22T02:35:35.748Z</updated>
+        <summary type="html"><![CDATA[This paper presents a low-latency real-time (LLRT) non-parallel voice
+conversion (VC) framework based on cyclic variational autoencoder (CycleVAE)
+and multiband WaveRNN with data-driven linear prediction (MWDLP). CycleVAE is a
+robust non-parallel multispeaker spectral model, which utilizes a
+speaker-independent latent space and a speaker-dependent code to generate
+reconstructed/converted spectral features given the spectral features of an
+input speaker. On the other hand, MWDLP is an efficient and a high-qu…]]></summary>
         <author>
-            <name/>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Tobing_P/0/1/0/all/0/1"&gt;Patrick Lumban Tobing&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Toda_T/0/1/0/all/0/1"&gt;Tomoki Toda&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus. (arXiv:2010.10391v4 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2010.10391</id>
+        <link href="http://arxiv.org/abs/2010.10391"/>
+        <updated>2021-05-22T02:35:35.735Z</updated>
+        <summary type="html"><![CDATA[Contextual word embedding models, such as BioBERT and Bio_ClinicalBERT, have
+achieved state-of-the-art results in biomedical natural language processing
+tasks by focusing their pre-training process on domain-specific corpora.
+However, such models do not take into consideration expert domain knowledge.
+
+In this work, we introduced UmlsBERT, a contextual embedding model that
+integrates domain knowledge during the pre-training process via a novel
+knowledge augmentation strategy. More specifically, the augmenta…]]></summary>
         <author>
-            <name>Silvia O'Dwyer</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Michalopoulos_G/0/1/0/all/0/1"&gt;George Michalopoulos&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wang_Y/0/1/0/all/0/1"&gt;Yuanxin Wang&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kaka_H/0/1/0/all/0/1"&gt;Hussam Kaka&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Chen_H/0/1/0/all/0/1"&gt;Helen Chen&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wong_A/0/1/0/all/0/1"&gt;Alexander Wong&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <title type="html"><![CDATA[BRUMS at SemEval-2020 Task 3: Contextualised Embeddings for Predicting the (Graded) Effect of Context in Word Similarity. (arXiv:2010.06269v2 [cs.CL] UPDATED)]]></title>
+        <id>http://arxiv.org/abs/2010.06269</id>
+        <link href="http://arxiv.org/abs/2010.06269"/>
+        <updated>2021-05-22T02:35:35.725Z</updated>
+        <summary type="html"><![CDATA[This paper presents the team BRUMS submission to SemEval-2020 Task 3: Graded
+Word Similarity in Context. The system utilises state-of-the-art contextualised
+word embeddings, which have some task-specific adaptations, including stacked
+embeddings and average embeddings. Overall, the approach achieves good
+evaluation scores across all the languages, while maintaining simplicity.
+Following the final rankings, our approach is ranked within the top 5 solutions
+of each language while preserving the 1st position o…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Hettiarachchi_H/0/1/0/all/0/1"&gt;Hansi Hettiarachchi&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Ranasinghe_T/0/1/0/all/0/1"&gt;Tharindu Ranasinghe&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <title type="html"><![CDATA[Towards Detecting Need for Empathetic Response in Motivational Interviewing. (arXiv:2105.09649v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09649</id>
+        <link href="http://arxiv.org/abs/2105.09649"/>
+        <updated>2021-05-22T02:35:35.716Z</updated>
+        <summary type="html"><![CDATA[Empathetic response from the therapist is key to the success of clinical
+psychotherapy, especially motivational interviewing. Previous work on
+computational modelling of empathy in motivational interviewing has focused on
+offline, session-level assessment of therapist empathy, where empathy captures
+all efforts that the therapist makes to understand the client's perspective and
+convey that understanding to the client. In this position paper, we propose a
+novel task of turn-level detection of client need for…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Wu_Z/0/1/0/all/0/1"&gt;Zixiu Wu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Helaoui_R/0/1/0/all/0/1"&gt;Rim Helaoui&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kumar_V/0/1/0/all/0/1"&gt;Vivek Kumar&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Recupero_D/0/1/0/all/0/1"&gt;Diego Reforgiato Recupero&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Riboni_D/0/1/0/all/0/1"&gt;Daniele Riboni&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[TF-IDF vs Word Embeddings for Morbidity Identification in Clinical Notes: An Initial Study. (arXiv:2105.09632v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09632</id>
+        <link href="http://arxiv.org/abs/2105.09632"/>
+        <updated>2021-05-22T02:35:35.623Z</updated>
+        <summary type="html"><![CDATA[Today, we are seeing an ever-increasing number of clinical notes that contain
+clinical results, images, and textual descriptions of patient's health state.
+All these data can be analyzed and employed to cater novel services that can
+help people and domain experts with their common healthcare tasks. However,
+many technologies such as Deep Learning and tools like Word Embeddings have
+started to be investigated only recently, and many challenges remain open when
+it comes to healthcare domain applications. To a…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Dessi_D/0/1/0/all/0/1"&gt;Danilo Dessi&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Helaoui_R/0/1/0/all/0/1"&gt;Rim Helaoui&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Kumar_V/0/1/0/all/0/1"&gt;Vivek Kumar&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Recupero_D/0/1/0/all/0/1"&gt;Diego Reforgiato Recupero&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Riboni_D/0/1/0/all/0/1"&gt;Daniele Riboni&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[A Case Study on Pros and Cons of Regular Expression Detection and Dependency Parsing for Negation Extraction from German Medical Documents. Technical Report. (arXiv:2105.09702v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09702</id>
+        <link href="http://arxiv.org/abs/2105.09702"/>
+        <updated>2021-05-22T02:35:35.575Z</updated>
+        <summary type="html"><![CDATA[We describe our work on information extraction in medical documents written
+in German, especially detecting negations using an architecture based on the
+UIMA pipeline. Based on our previous work on software modules to cover medical
+concepts like diagnoses, examinations, etc. we employ a version of the NegEx
+regular expression algorithm with a large set of triggers as a baseline. We
+show how a significantly smaller trigger set is sufficient to achieve similar
+results, in order to reduce adaptation times to n…]]></summary>
         <author>
-            <name>Ashley Kolodziej</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Profitlich_H/0/1/0/all/0/1"&gt;Hans-J&amp;#xfc;rgen Profitlich&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Sonntag_D/0/1/0/all/0/1"&gt;Daniel Sonntag&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Intra-Document Cascading: Learning to Select Passages for Neural Document Ranking. (arXiv:2105.09816v1 [cs.IR])]]></title>
+        <id>http://arxiv.org/abs/2105.09816</id>
+        <link href="http://arxiv.org/abs/2105.09816"/>
+        <updated>2021-05-22T02:35:35.534Z</updated>
+        <summary type="html"><![CDATA[An emerging recipe for achieving state-of-the-art effectiveness in neural
+document re-ranking involves utilizing large pre-trained language models -
+e.g., BERT - to evaluate all individual passages in the document and then
+aggregating the outputs by pooling or additional Transformer layers. A major
+drawback of this approach is high query latency due to the cost of evaluating
+every passage in the document with BERT. To make matters worse, this high
+inference cost and latency varies based on the length of the…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Hofstatter_S/0/1/0/all/0/1"&gt;Sebastian Hofst&amp;#xe4;tter&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Mitra_B/0/1/0/all/0/1"&gt;Bhaskar Mitra&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zamani_H/0/1/0/all/0/1"&gt;Hamed Zamani&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Craswell_N/0/1/0/all/0/1"&gt;Nick Craswell&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Hanbury_A/0/1/0/all/0/1"&gt;Allan Hanbury&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <title type="html"><![CDATA[See, Hear, Read: Leveraging Multimodality with Guided Attention for Abstractive Text Summarization. (arXiv:2105.09601v1 [cs.LG])]]></title>
+        <id>http://arxiv.org/abs/2105.09601</id>
+        <link href="http://arxiv.org/abs/2105.09601"/>
+        <updated>2021-05-22T02:35:35.505Z</updated>
+        <summary type="html"><![CDATA[In recent years, abstractive text summarization with multimodal inputs has
+started drawing attention due to its ability to accumulate information from
+different source modalities and generate a fluent textual summary. However,
+existing methods use short videos as the visual modality and short summary as
+the ground-truth, therefore, perform poorly on lengthy videos and long
+ground-truth summary. Additionally, there exists no benchmark dataset to
+generalize this task on videos of varying lengths. In this pape…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Atri_Y/0/1/0/all/0/1"&gt;Yash Kumar Atri&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Pramanick_S/0/1/0/all/0/1"&gt;Shraman Pramanick&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Goyal_V/0/1/0/all/0/1"&gt;Vikram Goyal&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Chakraborty_T/0/1/0/all/0/1"&gt;Tanmoy Chakraborty&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
+        <title type="html"><![CDATA[MLBiNet: A Cross-Sentence Collective Event Detection Network. (arXiv:2105.09458v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09458</id>
+        <link href="http://arxiv.org/abs/2105.09458"/>
+        <updated>2021-05-22T02:35:35.491Z</updated>
+        <summary type="html"><![CDATA[We consider the problem of collectively detecting multiple events,
+particularly in cross-sentence settings. The key to dealing with the problem is
+to encode semantic information and model event inter-dependency at a
+document-level. In this paper, we reformulate it as a Seq2Seq task and propose
+a Multi-Layer Bidirectional Network (MLBiNet) to capture the document-level
+association of events and semantic information simultaneously. Specifically, a
+bidirectional decoder is firstly devised to model event inter-…]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Lou_D/0/1/0/all/0/1"&gt;Dongfang Lou&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Liao_Z/0/1/0/all/0/1"&gt;Zhilin Liao&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Deng_S/0/1/0/all/0/1"&gt;Shumin Deng&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhang_N/0/1/0/all/0/1"&gt;Ningyu Zhang&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Chen_H/0/1/0/all/0/1"&gt;Huajun Chen&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <title type="html"><![CDATA[Dependency Parsing with Bottom-up Hierarchical Pointer Networks. (arXiv:2105.09611v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09611</id>
+        <link href="http://arxiv.org/abs/2105.09611"/>
+        <updated>2021-05-22T02:35:35.476Z</updated>
+        <summary type="html"><![CDATA[Dependency parsing is a crucial step towards deep language understanding and,
+therefore, widely demanded by numerous Natural Language Processing
+applications. In particular, left-to-right and top-down transition-based
+algorithms that rely on Pointer Networks are among the most accurate approaches
+for performing dependency parsing. Additionally, it has been observed for the
+top-down algorithm that Pointer Networks' sequential decoding can be improved
+by implementing a hierarchical variant, more adequate to m…]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Fernandez_Gonzalez_D/0/1/0/all/0/1"&gt;Daniel Fern&amp;#xe1;ndez-Gonz&amp;#xe1;lez&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Gomez_Rodriguez_C/0/1/0/all/0/1"&gt;Carlos G&amp;#xf3;mez-Rodr&amp;#xed;guez&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
+        <title type="html"><![CDATA[Computational Morphology with Neural Network Approaches. (arXiv:2105.09404v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09404</id>
+        <link href="http://arxiv.org/abs/2105.09404"/>
+        <updated>2021-05-22T02:35:35.455Z</updated>
+        <summary type="html"><![CDATA[Neural network approaches have been applied to computational morphology with
+great success, improving the performance of most tasks by a large margin and
+providing new perspectives for modeling. This paper starts with a brief
+introduction to computational morphology, followed by a review of recent work
+on computational morphology with neural network approaches, to provide an
+overview of the area. In the end, we will analyze the advantages and problems
+of neural network approaches to computational morphology…]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Liu_L/0/1/0/all/0/1"&gt;Ling Liu&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[The impact of virtual mirroring on customer satisfaction. (arXiv:2105.09571v1 [cs.SI])]]></title>
+        <id>http://arxiv.org/abs/2105.09571</id>
+        <link href="http://arxiv.org/abs/2105.09571"/>
+        <updated>2021-05-22T02:35:35.445Z</updated>
+        <summary type="html"><![CDATA[We investigate the impact of a novel method called "virtual mirroring" to
+promote employee self-reflection and impact customer satisfaction. The method
+is based on measuring communication patterns, through social network and
+semantic analysis, and mirroring them back to the individual. Our goal is to
+demonstrate that self-reflection can trigger a change in communication
+behaviors, which lead to increased customer satisfaction. We illustrate and
+test our approach analyzing e-mails of a large global services …]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Gloor_P/0/1/0/all/0/1"&gt;P. Gloor&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Colladon_A/0/1/0/all/0/1"&gt;A. Fronzetti Colladon&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Giacomelli_G/0/1/0/all/0/1"&gt;G. Giacomelli&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Saran_T/0/1/0/all/0/1"&gt;T. Saran&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Grippa_F/0/1/0/all/0/1"&gt;F. Grippa&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <title type="html"><![CDATA[Contrastive Learning for Many-to-many Multilingual Neural Machine Translation. (arXiv:2105.09501v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09501</id>
+        <link href="http://arxiv.org/abs/2105.09501"/>
+        <updated>2021-05-22T02:35:35.421Z</updated>
+        <summary type="html"><![CDATA[Existing multilingual machine translation approaches mainly focus on
+English-centric directions, while the non-English directions still lag behind.
+In this work, we aim to build a many-to-many translation system with an
+emphasis on the quality of non-English language directions. Our intuition is
+based on the hypothesis that a universal cross-language representation leads to
+better multilingual translation performance. To this end, we propose \method, a
+training method to obtain a single unified multilingual…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Pan_X/0/1/0/all/0/1"&gt;Xiao Pan&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wang_M/0/1/0/all/0/1"&gt;Mingxuan Wang&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wu_L/0/1/0/all/0/1"&gt;Liwei Wu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Li_L/0/1/0/all/0/1"&gt;Lei Li&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <title type="html"><![CDATA[Manual Evaluation Matters: Reviewing Test Protocols of Distantly Supervised Relation Extraction. (arXiv:2105.09543v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09543</id>
+        <link href="http://arxiv.org/abs/2105.09543"/>
+        <updated>2021-05-22T02:35:35.409Z</updated>
+        <summary type="html"><![CDATA[Distantly supervised (DS) relation extraction (RE) has attracted much
+attention in the past few years as it can utilize large-scale auto-labeled
+data. However, its evaluation has long been a problem: previous works either
+took costly and inconsistent methods to manually examine a small sample of
+model predictions, or directly test models on auto-labeled data -- which, by
+our check, produce as much as 53% wrong labels at the entity pair level in the
+popular NYT10 dataset. This problem has not only led to ina…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Gao_T/0/1/0/all/0/1"&gt;Tianyu Gao&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Han_X/0/1/0/all/0/1"&gt;Xu Han&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Qiu_K/0/1/0/all/0/1"&gt;Keyue Qiu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Bai_Y/0/1/0/all/0/1"&gt;Yuzhuo Bai&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Xie_Z/0/1/0/all/0/1"&gt;Zhiyu Xie&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lin_Y/0/1/0/all/0/1"&gt;Yankai Lin&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Liu_Z/0/1/0/all/0/1"&gt;Zhiyuan Liu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Li_P/0/1/0/all/0/1"&gt;Peng Li&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Sun_M/0/1/0/all/0/1"&gt;Maosong Sun&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhou_J/0/1/0/all/0/1"&gt;Jie Zhou&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
+        <title type="html"><![CDATA[Geographic Question Answering: Challenges, Uniqueness, Classification, and Future Directions. (arXiv:2105.09392v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09392</id>
+        <link href="http://arxiv.org/abs/2105.09392"/>
+        <updated>2021-05-22T02:35:35.399Z</updated>
+        <summary type="html"><![CDATA[As an important part of Artificial Intelligence (AI), Question Answering (QA)
+aims at generating answers to questions phrased in natural language. While
+there has been substantial progress in open-domain question answering, QA
+systems are still struggling to answer questions which involve geographic
+entities or concepts and that require spatial operations. In this paper, we
+discuss the problem of geographic question answering (GeoQA). We first
+investigate the reasons why geographic questions are difficult t…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Mai_G/0/1/0/all/0/1"&gt;Gengchen Mai&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Janowicz_K/0/1/0/all/0/1"&gt;Krzysztof Janowicz&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Zhu_R/0/1/0/all/0/1"&gt;Rui Zhu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Cai_L/0/1/0/all/0/1"&gt;Ling Cai&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lao_N/0/1/0/all/0/1"&gt;Ni Lao&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <title type="html"><![CDATA[Explainable Health Risk Predictor with Transformer-based Medicare Claim Encoder. (arXiv:2105.09428v1 [cs.LG])]]></title>
+        <id>http://arxiv.org/abs/2105.09428</id>
+        <link href="http://arxiv.org/abs/2105.09428"/>
+        <updated>2021-05-22T02:35:35.376Z</updated>
+        <summary type="html"><![CDATA[In 2019, The Centers for Medicare and Medicaid Services (CMS) launched an
+Artificial Intelligence (AI) Health Outcomes Challenge seeking solutions to
+predict risk in value-based care for incorporation into CMS Innovation Center
+payment and service delivery models. Recently, modern language models have
+played key roles in a number of health related tasks. This paper presents, to
+the best of our knowledge, the first application of these models to patient
+readmission prediction. To facilitate this, we create a…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Lahlou_C/0/1/0/all/0/1"&gt;Chuhong Lahlou&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Crayton_A/0/1/0/all/0/1"&gt;Ancil Crayton&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Trier_C/0/1/0/all/0/1"&gt;Caroline Trier&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Willett_E/0/1/0/all/0/1"&gt;Evan Willett&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
+        <title type="html"><![CDATA[LAST at SemEval-2021 Task 1: Improving Multi-Word Complexity Prediction Using Bigram Association Measures. (arXiv:2105.09653v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09653</id>
+        <link href="http://arxiv.org/abs/2105.09653"/>
+        <updated>2021-05-22T02:35:35.359Z</updated>
+        <summary type="html"><![CDATA[This paper describes the system developed by the Laboratoire d'analyse
+statistique des textes (LAST) for the Lexical Complexity Prediction shared task
+at SemEval-2021. The proposed system is made up of a LightGBM model fed with
+features obtained from many word frequency lists, published lexical norms and
+psychometric data. For tackling the specificity of the multi-word task, it uses
+bigram association measures. Despite that the only contextual feature used was
+sentence length, the system achieved an honorab…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Bestgen_Y/0/1/0/all/0/1"&gt;Yves Bestgen&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <title type="html"><![CDATA[Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection. (arXiv:2105.09509v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09509</id>
+        <link href="http://arxiv.org/abs/2105.09509"/>
+        <updated>2021-05-22T02:35:35.337Z</updated>
+        <summary type="html"><![CDATA[Event detection (ED) aims at detecting event trigger words in sentences and
+classifying them into specific event types. In real-world applications, ED
+typically does not have sufficient labelled data, thus can be formulated as a
+few-shot learning problem. To tackle the issue of low sample diversity in
+few-shot ED, we propose a novel knowledge-based few-shot event detection method
+which uses a definition-based encoder to introduce external event knowledge as
+the knowledge prior of event types. Furthermore, a…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Shen_S/0/1/0/all/0/1"&gt;Shirong Shen&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Wu_T/0/1/0/all/0/1"&gt;Tongtong Wu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Qi_G/0/1/0/all/0/1"&gt;Guilin Qi&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Li_Y/0/1/0/all/0/1"&gt;Yuan-Fang Li&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Haffari_G/0/1/0/all/0/1"&gt;Gholamreza Haffari&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Bi_S/0/1/0/all/0/1"&gt;Sheng Bi&lt;/a&gt;</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
+        <title type="html"><![CDATA[Unified Dual-view Cognitive Model for Interpretable Claim Verification. (arXiv:2105.09567v1 [cs.CL])]]></title>
+        <id>http://arxiv.org/abs/2105.09567</id>
+        <link href="http://arxiv.org/abs/2105.09567"/>
+        <updated>2021-05-22T02:35:35.305Z</updated>
+        <summary type="html"><![CDATA[Recent studies constructing direct interactions between the claim and each
+single user response (a comment or a relevant article) to capture evidence have
+shown remarkable success in interpretable claim verification. Owing to
+different single responses convey different cognition of individual users
+(i.e., audiences), the captured evidence belongs to the perspective of
+individual cognition. However, individuals' cognition of social things is not
+always able to truly reflect the objective. There may be one-si…]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
-        <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+            <name>&lt;a href="http://arxiv.org/find/cs/1/au:+Wu_L/0/1/0/all/0/1"&gt;Lianwei Wu&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Rao_Y/0/1/0/all/0/1"&gt;Yuan Rao&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Lan_Y/0/1/0/all/0/1"&gt;Yuqian Lan&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Sun_L/0/1/0/all/0/1"&gt;Ling Sun&lt;/a&gt;, &lt;a href="http://arxiv.org/find/cs/1/au:+Qi_Z/0/1/0/all/0/1"&gt;Zhaoyin Qi&lt;/a&gt;</name>
         </author>
     </entry>
 </feed>

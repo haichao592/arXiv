@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haichao592.github.io/arxiv/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T03:12:39.632Z</updated>
+    <updated>2021-05-22T07:21:06.067Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://haichao592.github.io/arxiv/index.html"/>
     <link rel="self" href="https://haichao592.github.io/arxiv/feed.atom"/>

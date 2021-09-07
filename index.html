@@ -1592,6 +1592,291 @@ than existing approaches for active learning on language models.</span>
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
+                <summary class="article-expander__title">Semi-Supervised Raw-to-Raw Mapping. (arXiv:2106.13883v3 [cs.CV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.13883">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>The raw-RGB colors of a camera sensor vary due to the spectral sensitivity
+differences across different sensor makes and models. This paper focuses on the
+task of mapping between different sensor raw-RGB color spaces. Prior work
+addressed this problem using a pairwise calibration to achieve accurate color
+mapping. Although being accurate, this approach is less practical as it
+requires: (1) capturing pair of images by both camera devices with a color
+calibration object placed in each new scene; (2) accurate image alignment or
+manual annotation of the color calibration object. This paper aims to tackle
+color mapping in the raw space through a more practical setup. Specifically, we
+present a semi-supervised raw-to-raw mapping method trained on a small set of
+paired images alongside an unpaired set of images captured by each camera
+device. Through extensive experiments, we show that our method achieves better
+results compared to other domain adaptation alternatives in addition to the
+single-calibration solution. We have generated a new dataset of raw images from
+two different smartphone cameras as part of this effort. Our dataset includes
+unpaired and paired sets for our semi-supervised training and evaluation.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">CAMS: Color-Aware Multi-Style Transfer. (arXiv:2106.13920v2 [cs.CV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.13920">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Image style transfer aims to manipulate the appearance of a source image, or
+&quot;content&quot; image, to share similar texture and colors of a target &quot;style&quot; image.
+Ideally, the style transfer manipulation should also preserve the semantic
+content of the source image. A commonly used approach to assist in transferring
+styles is based on Gram matrix optimization. One problem of Gram matrix-based
+optimization is that it does not consider the correlation between colors and
+their styles. Specifically, certain textures or structures should be associated
+with specific colors. This is particularly challenging when the target style
+image exhibits multiple style types. In this work, we propose a color-aware
+multi-style transfer method that generates aesthetically pleasing results while
+preserving the style-color correlation between style and generated images. We
+achieve this desired outcome by introducing a simple but efficient modification
+to classic Gram matrix-based style transfer optimization. A nice feature of our
+method is that it enables the users to manually select the color associations
+between the target style and content image for more transfer flexibility. We
+validated our method with several qualitative comparisons, including a user
+study conducted with 30 participants. In comparison with prior work, our method
+is simple, easy to implement, and achieves visually appealing results when
+targeting images that have multiple styles. Source code is available at
+https://github.com/mahmoudnafifi/color-aware-style-transfer.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Greedy Offset-Guided Keypoint Grouping for Human Pose Estimation. (arXiv:2107.03098v2 [cs.CV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2107.03098">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>We propose a simple yet reliable bottom-up approach with a good trade-off
+between accuracy and efficiency for the problem of multi-person pose
+estimation. Given an image, we employ an Hourglass Network to infer all the
+keypoints from different persons indiscriminately as well as the guiding
+offsets connecting the adjacent keypoints belonging to the same persons. Then,
+we greedily group the candidate keypoints into multiple human poses (if any),
+utilizing the predicted guiding offsets. And we refer to this process as greedy
+offset-guided keypoint grouping (GOG). Moreover, we revisit the
+encoding-decoding method for the multi-person keypoint coordinates and reveal
+some important facts affecting accuracy. Experiments have demonstrated the
+obvious performance improvements brought by the introduced components. Our
+approach is comparable to the state of the art on the challenging COCO dataset
+under fair conditions. The source code and our pre-trained model are publicly
+available online.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">How Does Heterogeneous Label Noise Impact Generalization in Neural Nets?. (arXiv:2106.15475v2 [cs.CV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.15475">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Incorrectly labeled examples, or label noise, is common in real-world
+computer vision datasets. While the impact of label noise on learning in deep
+neural networks has been studied in prior work, these studies have exclusively
+focused on homogeneous label noise, i.e., the degree of label noise is the same
+across all categories. However, in the real-world, label noise is often
+heterogeneous, with some categories being affected to a greater extent than
+others. Here, we address this gap in the literature. We hypothesized that
+heterogeneous label noise would only affect the classes that had label noise
+unless there was transfer from those classes to the classes without label
+noise. To test this hypothesis, we designed a series of computer vision studies
+using MNIST, CIFAR-10, CIFAR-100, and MS-COCO where we imposed heterogeneous
+label noise during the training of multi-class, multi-task, and multi-label
+systems. Our results provide evidence in support of our hypothesis: label noise
+only affects the class affected by it unless there is transfer.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Topological Semantic Mapping by Consolidation of Deep Visual Features. (arXiv:2106.12709v2 [cs.CV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.12709">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Many works in the recent literature introduce semantic mapping methods that
+use CNNs (Convolutional Neural Networks) to recognize semantic properties in
+images. The types of properties (eg.: room size, place category, and objects)
+and their classes (eg.: kitchen and bathroom, for place category) are usually
+predefined and restricted to a specific task. Thus, all the visual data
+acquired and processed during the construction of the maps are lost and only
+the recognized semantic properties remain on the maps. In contrast, this work
+introduces a topological semantic mapping method that uses deep visual features
+extracted by a CNN (GoogLeNet), from 2D images captured in multiple views of
+the environment as the robot operates, to create, through averages,
+consolidated representations of the visual features acquired in the regions
+covered by each topological node. These representations allow flexible
+recognition of semantic properties of the regions and use in other visual
+tasks. Experiments with a real-world indoor dataset showed that the method is
+able to consolidate the visual features of regions and use them to recognize
+objects and place categories as semantic properties, and to indicate the
+topological location of images, with very promising results.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Transformer Networks for Data Augmentation of Human Physical Activity Recognition. (arXiv:2109.01081v2 [cs.LG] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2109.01081">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Data augmentation is a widely used technique in classification to increase
+data used in training. It improves generalization and reduces amount of
+annotated human activity data needed for training which reduces labour and time
+needed with the dataset. Sensor time-series data, unlike images, cannot be
+augmented by computationally simple transformation algorithms. State of the art
+models like Recurrent Generative Adversarial Networks (RGAN) are used to
+generate realistic synthetic data. In this paper, transformer based generative
+adversarial networks which have global attention on data, are compared on
+PAMAP2 and Real World Human Activity Recognition data sets with RGAN. The newer
+approach provides improvements in time and savings in computational resources
+needed for data augmentation than previous approach.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">VMAF And Variants: Towards A Unified VQA. (arXiv:2103.07770v6 [eess.IV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2103.07770">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Video quality assessment (VQA) is now a fast-growing subject, maturing in the
+full reference (FR) case, yet challenging in the exploding no reference (NR)
+case. We investigate variants of the popular VMAF video quality assessment
+algorithm for the FR case, using both support vector regression and feedforward
+neural networks. We extend it to the NR case, using some different features but
+similar learning, to develop a partially unified framework for VQA. When fully
+trained, FR algorithms such as VMAF perform well on test datasets, with 90%+
+match in PCC and SRCC; but for predicting performance in the wild, we
+train/test from scratch for each database. With an 80/20 train/test split, we
+still achieve 90%+ performance on average in both PCC and SRCC, with 8-9% gains
+over VMAF. Moreover, we even get decent performance (~75%) if we ignore the
+reference, treating FR as NR, partly justifying our attempts at unification. In
+the true NR case, we reduce complexity vs. leading recent algorithms VIDEVAL,
+RAPIQUE, yet achieve a stunning 90% in SRCC (~12% gain), while roughly matching
+in PCC (78% vs. 79.6%). At lower complexities, we can still achieve 87% in
+SRCC, 70% in PCC. In short, we find encouraging improvements in trainability in
+both FR and NR, while also constraining computational complexity against
+leading methods</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Image Segmentation, Compression and Reconstruction from Edge Distribution Estimation with Random Field and Random Cluster Theories. (arXiv:2104.10762v12 [eess.IV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2104.10762">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Random field and random cluster theory are used to describe certain
+mathematical results concerning the probability distribution of image pixel
+intensities characterized as generic $2D$ integer arrays. The size of the
+smallest bounded region within an image is estimated for segmenting an image,
+from which, the equilibrium distribution of intensities can be recovered. From
+the estimated bounded regions, properties of the sub-optimal and equilibrium
+distributions of intensities are derived, which leads to an image compression
+methodology whereby only slightly more than half of all pixels are required for
+a worst-case reconstruction of the original image. A custom deep belief network
+and heuristic allows for the unsupervised segmentation, detection and
+localization of objects in an image. An example illustrates the mathematical
+results.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">A Comprehensive Survey of Image-Based Food Recognition and Volume Estimation Methods for Dietary Assessment. (arXiv:2106.11776v3 [cs.CV] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.11776">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Dietary studies showed that dietary-related problem such as obesity is
+associated with other chronic diseases like hypertension, irregular blood sugar
+levels, and increased risk of heart attacks. The primary cause of these
+problems is poor lifestyle choices and unhealthy dietary habits, which are
+manageable using interactive mHealth apps. However, traditional dietary
+monitoring systems using manual food logging suffer from imprecision,
+underreporting, time consumption, and low adherence. Recent dietary monitoring
+systems tackle these challenges by automatic assessment of dietary intake
+through machine learning methods. This survey discusses the most performing
+methodologies that have been developed so far for automatic food recognition
+and volume estimation. First, we will present the rationale of visual-based
+methods for food recognition. The core of the paper is the presentation,
+discussion and evaluation of these methods on popular food image databases.
+Following that, we discussed the mobile applications that are implementing
+these methods. The survey ends with a discussion of research gaps and open
+issues in this area.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Neural Marching Cubes. (arXiv:2106.11272v3 [cs.GR] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.11272">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>We introduce Neural Marching Cubes (NMC), a data-driven approach for
+extracting a triangle mesh from a discretized implicit field. Classical MC is
+defined by coarse tessellation templates isolated to individual cubes. While
+more refined tessellations have been proposed, they all make heuristic
+assumptions, such as trilinearity, when determining the vertex positions and
+local mesh topologies in each cube. In principle, none of these approaches can
+reconstruct geometric features that reveal coherence or dependencies between
+nearby cubes (e.g., a sharp edge), as such information is unaccounted for,
+resulting in poor estimates of the true underlying implicit field. To tackle
+these challenges, we re-cast MC from a deep learning perspective, by designing
+tessellation templates more apt at preserving geometric features, and learning
+the vertex positions and mesh topologies from training meshes, to account for
+contextual information from nearby cubes. We develop a compact per-cube
+parameterization to represent the output triangle mesh, while being compatible
+with neural processing, so that a simple 3D convolutional network can be
+employed for the training. We show that all topological cases in each cube that
+are applicable to our design can be easily derived using our representation,
+and the resulting tessellations can also be obtained naturally and efficiently
+by following a few design guidelines. In addition, our network learns local
+features with limited receptive fields, hence it generalizes well to new shapes
+and new datasets. We evaluate our neural MC approach by quantitative and
+qualitative comparisons to all well-known MC variants. In particular, we
+demonstrate the ability of our network to recover sharp features such as edges
+and corners, a long-standing issue of MC and its variants. Our network also
+reconstructs local mesh topologies more accurately than previous approaches.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Accurate and fast matrix factorization for low-rank learning. (arXiv:2104.10785v4 [stat.ML] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2104.10785">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>In this paper, we tackle two important problems in low-rank learning, which
+are partial singular value decomposition and numerical rank estimation of huge
+matrices. By using the concepts of Krylov subspaces such as Golub-Kahan
+bidiagonalization (GK-bidiagonalization) as well as Ritz vectors, we propose
+two methods for solving these problems in a fast and accurate way. Our
+experiments show the advantages of the proposed methods compared to the
+traditional and randomized singular value decomposition methods. The proposed
+methods are appropriate for applications involving huge matrices where the
+accuracy of the desired singular values and also all of their corresponding
+singular vectors are essential. As a real application, we evaluate the
+performance of our methods on the problem of Riemannian similarity learning
+between two various image datasets of MNIST and USPS.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
                 <summary class="article-expander__title">Multi-Agent Variational Occlusion Inference Using People as Sensors. (arXiv:2109.02173v1 [cs.RO])</summary>
                 <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2109.02173">
                   <div class="article-summary-box-inner">
@@ -5647,6 +5932,299 @@ new facility, as suggested by our methodology, in the city of Victoria.</span>
         <section>
           <h3 class="source-name"><a class="source-name__link" href="http://arxiv.org/">cs.LG updates on arXiv.org</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Multimodal Reward Shaping for Efficient Exploration in Reinforcement Learning. (arXiv:2107.08888v2 [cs.LG] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2107.08888">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Maintaining the long-term exploration capability of the agent remains one of
+the critical challenges in deep reinforcement learning. A representative
+solution is to leverage reward shaping to provide intrinsic rewards for the
+agent to encourage exploration. However, most existing methods suffer from
+vanishing intrinsic rewards, which cannot provide sustainable exploration
+incentives. Moreover, they rely heavily on complex models and additional memory
+to record learning procedures, resulting in high computational complexity and
+low robustness. To tackle this problem, entropy-based methods are proposed to
+evaluate the global exploration performance, encouraging the agent to visit the
+state space more equitably. However, the sample complexity of estimating the
+state visitation entropy is prohibitive when handling environments with
+high-dimensional observations. In this paper, we introduce a novel metric
+entitled Jain&#x27;s fairness index (JFI) to replace the entropy regularizer, which
+solves the exploration problem from a brand new perspective. In sharp contrast
+to the entropy regularizer, JFI is more computable and robust and can be easily
+applied generalized into arbitrary tasks. Furthermore, we leverage a
+variational auto-encoder (VAE) model to capture the life-long novelty of
+states, which is combined with the global JFI score to form multimodal
+intrinsic rewards. Finally, extensive simulation results demonstrate that our
+multimodal reward shaping (MMRS) method can achieve higher performance than
+other benchmark schemes.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Neural Marching Cubes. (arXiv:2106.11272v3 [cs.GR] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.11272">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>We introduce Neural Marching Cubes (NMC), a data-driven approach for
+extracting a triangle mesh from a discretized implicit field. Classical MC is
+defined by coarse tessellation templates isolated to individual cubes. While
+more refined tessellations have been proposed, they all make heuristic
+assumptions, such as trilinearity, when determining the vertex positions and
+local mesh topologies in each cube. In principle, none of these approaches can
+reconstruct geometric features that reveal coherence or dependencies between
+nearby cubes (e.g., a sharp edge), as such information is unaccounted for,
+resulting in poor estimates of the true underlying implicit field. To tackle
+these challenges, we re-cast MC from a deep learning perspective, by designing
+tessellation templates more apt at preserving geometric features, and learning
+the vertex positions and mesh topologies from training meshes, to account for
+contextual information from nearby cubes. We develop a compact per-cube
+parameterization to represent the output triangle mesh, while being compatible
+with neural processing, so that a simple 3D convolutional network can be
+employed for the training. We show that all topological cases in each cube that
+are applicable to our design can be easily derived using our representation,
+and the resulting tessellations can also be obtained naturally and efficiently
+by following a few design guidelines. In addition, our network learns local
+features with limited receptive fields, hence it generalizes well to new shapes
+and new datasets. We evaluate our neural MC approach by quantitative and
+qualitative comparisons to all well-known MC variants. In particular, we
+demonstrate the ability of our network to recover sharp features such as edges
+and corners, a long-standing issue of MC and its variants. Our network also
+reconstructs local mesh topologies more accurately than previous approaches.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Multi-Reference Alignment for sparse signals, Uniform Uncertainty Principles and the Beltway Problem. (arXiv:2106.12996v2 [math.ST] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2106.12996">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Motivated by cutting-edge applications like cryo-electron microscopy
+(cryo-EM), the Multi-Reference Alignment (MRA) model entails the learning of an
+unknown signal from repeated measurements of its images under the latent action
+of a group of isometries and additive noise of magnitude $\sigma$. Despite
+significant interest, a clear picture for understanding rates of estimation in
+this model has emerged only recently, particularly in the high-noise regime
+$\sigma \gg 1$ that is highly relevant in applications. Recent investigations
+have revealed a remarkable asymptotic sample complexity of order $\sigma^6$ for
+certain signals whose Fourier transforms have full support, in stark contrast
+to the traditional $\sigma^2$ that arise in regular models. Often prohibitively
+large in practice, these results have prompted the investigation of variations
+around the MRA model where better sample complexity may be achieved. In this
+paper, we show that \emph{sparse} signals exhibit an intermediate $\sigma^4$
+sample complexity even in the classical MRA model. Our results explore and
+exploit connections of the MRA estimation problem with two classical topics in
+applied mathematics: the \textit{beltway problem} from combinatorial
+optimization, and \textit{uniform uncertainty principles} from harmonic
+analysis.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">A method for estimating the entropy of time series using artificial neural network. (arXiv:2107.08399v2 [cs.LG] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2107.08399">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Measuring the predictability and complexity of time series is an essential
+tool in designing and controlling the nonlinear system. Different entropy
+measures exist in the literature to analyze the predictability and complexity
+of time series. However, the existed methods have some drawbacks related to a
+strong dependence of entropy on the parameters of the methods, as well as on
+the length and amplitude of the time series. To overcome these difficulties,
+this study proposes a new method for estimating the entropy of a time series
+using the LogNNet neural network model. The LogNNet reservoir matrix is filled
+with the time series elements according to our algorithm. The network is
+trained on MNIST-10 dataset and the classification accuracy is calculated. The
+accuracy is considered as the entropy measure and denoted by NNetEn. The
+novelty of entropy calculation is that the time series is involved in mixing
+the input information in the reservoir. The greater complexity of the time
+series leads to the better ability of the neural network to learn, and to the
+higher classification accuracy and NNetEn values. The epochs number in the
+training process of LogNNet is considered as the control parameter. We
+introduce a new time series characteristic, called time series learning
+inertia, that determines the learning rate of the neural network. The
+robustness and efficiency of the method is verified on chaotic, periodic,
+random, binary and constant time series. The comparison of NNetEn with other
+methods of entropy estimation demonstrates that our method is more robust and
+accurate and can be widely used in practice.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Explainable AI (XAI) for PHM of Industrial Asset: A State-of-The-Art, PRISMA-Compliant Systematic Review. (arXiv:2107.03869v2 [cs.AI] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2107.03869">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>A state-of-the-art systematic review on XAI applied to Prognostic and Health
+Management (PHM) of industrial asset is presented. This work provides an
+overview of the general trend of XAI in PHM, answers the question of accuracy
+versus explainability, the extent of human involvement, the explanation
+assessment and uncertainty quantification in PHM-XAI domain. Research articles
+associated with the subject, from 2015 to 2021 were selected from five known
+databases following PRISMA guidelines. Data was then extracted from the
+selected articles and examined. Several findings were synthesized. Firstly,
+while the discipline is still young, the analysis indicated the growing
+acceptance of XAI in PHM domain. Secondly, XAI functions as a double edge
+sword, where it is assimilated as a tool to execute PHM tasks as well as a mean
+of explanation, particularly in diagnostic and anomaly detection activities,
+implying a real need for XAI in PHM. Thirdly, the review showed that PHM-XAI
+papers produce either good or excellent result in general, suggesting that PHM
+performance is unaffected by XAI. Fourthly, human role, evaluation metrics and
+uncertainty management are areas requiring further attention by the PHM
+community. Adequate assessment metrics to cater for PHM need are urgently
+needed.Finally, most case study featured on the accepted articles are based on
+real, industrial data, indicating that the available PHM-XAI blends are fit to
+solve complex,real-world challenges, increasing the confidence in AI adoption
+in the industry.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Constrained Restless Bandits for Dynamic Scheduling in Cyber-Physical Systems. (arXiv:1904.08962v5 [cs.SY] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/1904.08962">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>This paper studies a class of constrained restless multi-armed bandits
+(CRMAB). The constraints are in the form of time varying set of actions (set of
+available arms). This variation can be either stochastic or semi-deterministic.
+Given a set of arms, a fixed number of them can be chosen to be played in each
+decision interval. The play of each arm yields a state dependent reward. The
+current states of arms are partially observable through binary feedback signals
+from arms that are played. The current availability of arms is fully
+observable. The objective is to maximize long term cumulative reward. The
+uncertainty about future availability of arms along with partial state
+information makes this objective challenging. Applications for CRMAB can be
+found in resource allocation in cyber-physical systems involving components
+with time varying availability.
+
+First, this optimization problem is analyzed using Whittle&#x27;s index policy. To
+this end, a constrained restless single-armed bandit is studied. It is shown to
+admit a threshold-type optimal policy and is also indexable. An algorithm to
+compute Whittle&#x27;s index is presented. An alternate solution method with lower
+complexity is also presented in the form of an online rollout policy. A
+detailed discussion on the complexity of both these schemes is also presented,
+which suggests that online rollout policy with short look ahead is simpler to
+implement than Whittle&#x27;s index computation. Further, upper bounds on the value
+function are derived in order to estimate the degree of sub-optimality of
+various solutions. The simulation study compares the performance of Whittle&#x27;s
+index, online rollout, myopic and modified Whittle&#x27;s index policies.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-box Approach. (arXiv:2102.05406v3 [cs.LG] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2102.05406">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>We propose a black-box reduction that turns a certain reinforcement learning
+algorithm with optimal regret in a (near-)stationary environment into another
+algorithm with optimal dynamic regret in a non-stationary environment,
+importantly without any prior knowledge on the degree of non-stationarity. By
+plugging different algorithms into our black-box, we provide a list of examples
+showing that our approach not only recovers recent results for (contextual)
+multi-armed bandits achieved by very specialized algorithms, but also
+significantly improves the state of the art for (generalized) linear bandits,
+episodic MDPs, and infinite-horizon MDPs in various ways. Specifically, in most
+cases our algorithm achieves the optimal dynamic regret
+$\widetilde{\mathcal{O}}(\min\{\sqrt{LT}, \Delta^{1/3}T^{2/3}\})$ where $T$ is
+the number of rounds and $L$ and $\Delta$ are the number and amount of changes
+of the world respectively, while previous works only obtain suboptimal bounds
+and/or require the knowledge of $L$ and $\Delta$.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Weather-based forecasting of energy generation, consumption and price for electrical microgrids management. (arXiv:2107.01034v4 [eess.SY] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2107.01034">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>The Intergovernmental Panel on Climate Change proposes different mitigation
+strategies to achieve the net emissions reductions that would be required to
+follow a pathway that limits global warming to 1.5{\deg}C with no or limited
+overshoot. The transition towards a carbon-free society goes through an
+inevitable increase in the share of renewable generation in the energy mix and
+a drastic decrease in the total consumption of fossil fuels. Therefore, this
+thesis studies the integration of renewables in power systems by investigating
+forecasting and decision-making tools. Indeed, in contrast to conventional
+power plants, renewable energy is subject to uncertainty. Most of the
+generation technologies based on renewable sources are non-dispatchable, and
+their production is stochastic and complex to predict in advance. A high share
+of renewables is challenging for power systems that have been designed and
+sized for dispatchable units. In this context, probabilistic forecasts, which
+aim at modeling the distribution of all possible future realizations, have
+become a vital tool to equip decision-makers, hopefully leading to better
+decisions in energy applications. This thesis focuses on two main research
+questions: (1) How to produce reliable probabilistic renewable generation
+forecasts, consumption, and electricity prices? (2) How to make decisions with
+uncertainty using probabilistic forecasts? The thesis perimeter is the energy
+management of &quot;small&quot; systems such as microgrids at a residential scale on a
+day-ahead basis. It is divided into two main parts to propose directions to
+address both research questions (1) a forecasting part; (2) a planning and
+control part.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">A Critical Connectivity Radius for Segmenting Randomly-Generated, High Dimensional Data Points. (arXiv:1602.03822v8 [cs.LG] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/1602.03822">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Motivated by a $2$-dimensional (unsupervised) image segmentation task whereby
+local regions of pixels are clustered via edge detection methods, a more
+general probabilistic mathematical framework is devised. Critical thresholds
+are calculated that indicate strong correlation between randomly-generated,
+high dimensional data points that have been projected into structures in a
+partition of a bounded, $2$-dimensional area, of which, an image is a special
+case. A neighbor concept for structures in the partition is defined and a
+critical radius is uncovered. Measured from a central structure in localized
+regions of the partition, the radius indicates strong, long and short range
+correlation in the count of occupied structures. The size of a short interval
+of radii is estimated upon which the transition from short-to-long range
+correlation is virtually assured, which defines a demarcation of when an image
+ceases to be &quot;interesting&quot;.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Accurate and fast matrix factorization for low-rank learning. (arXiv:2104.10785v4 [stat.ML] UPDATED)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://arxiv.org/abs/2104.10785">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>In this paper, we tackle two important problems in low-rank learning, which
+are partial singular value decomposition and numerical rank estimation of huge
+matrices. By using the concepts of Krylov subspaces such as Golub-Kahan
+bidiagonalization (GK-bidiagonalization) as well as Ritz vectors, we propose
+two methods for solving these problems in a fast and accurate way. Our
+experiments show the advantages of the proposed methods compared to the
+traditional and randomized singular value decomposition methods. The proposed
+methods are appropriate for applications involving huge matrices where the
+accuracy of the desired singular values and also all of their corresponding
+singular vectors are essential. As a real application, we evaluate the
+performance of our methods on the problem of Riemannian similarity learning
+between two various image datasets of MNIST and USPS.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">Using BART to Perform Pareto Optimization and Quantify its Uncertainties. (arXiv:2101.02558v2 [cs.LG] UPDATED)</summary>
@@ -10311,7 +10889,7 @@ settings, where our algorithm has near-linear time complexities.</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-09-07T07:20:15.622Z">2021-09-07T07:20:15.622Z</time>
+    <time id="build-timestamp" datetime="2021-09-07T20:22:05.433Z">2021-09-07T20:22:05.433Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>
